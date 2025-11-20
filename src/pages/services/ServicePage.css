@@ -1,0 +1,346 @@
+.service-page {
+  background-color: white;
+}
+
+.service-intro {
+  max-width: 900px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.service-intro h2 {
+  margin-bottom: 1.5rem;
+}
+
+.service-intro p {
+  font-size: 1.125rem;
+  line-height: 1.8;
+  margin-bottom: 1rem;
+}
+
+.services-detail-section {
+  background-color: var(--light-color);
+}
+
+.service-items {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  margin-top: 3rem;
+}
+
+.service-item {
+  border-left: 4px solid var(--secondary-color);
+}
+
+.service-item h3 {
+  color: var(--primary-color);
+  margin-bottom: 1rem;
+  font-size: 1.75rem;
+}
+
+.service-item p {
+  line-height: 1.8;
+  margin-bottom: 1rem;
+}
+
+.service-item ul {
+  margin: 1rem 0;
+}
+
+.service-item ul li {
+  margin-bottom: 0.75rem;
+}
+
+.service-item ul li strong {
+  color: var(--dark-color);
+}
+
+.expertise-section {
+  background-color: white;
+}
+
+.expertise-content {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  gap: 3rem;
+  margin-top: 3rem;
+}
+
+.expertise-category h4 {
+  color: var(--primary-color);
+  margin-bottom: 1.5rem;
+  font-size: 1.5rem;
+}
+
+.brands-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+}
+
+.brand-badge {
+  background-color: var(--light-color);
+  border: 2px solid var(--border-color);
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  font-weight: 600;
+  color: var(--dark-color);
+  transition: all 0.3s ease;
+}
+
+.brand-badge:hover {
+  border-color: var(--secondary-color);
+  background-color: white;
+}
+
+.benefits-section {
+  background-color: var(--light-color);
+}
+
+.benefit-card {
+  text-align: center;
+}
+
+.benefit-card h4 {
+  font-size: 1.25rem;
+  margin-bottom: 1rem;
+  color: var(--dark-color);
+}
+
+.cta-section {
+  background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
+  color: white;
+}
+
+.cta-box {
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.cta-box h2 {
+  color: white;
+  font-size: 2.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.cta-box p {
+  font-size: 1.25rem;
+  opacity: 0.95;
+  margin-bottom: 2rem;
+}
+
+.cta-buttons {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.pricing-section {
+  background-color: white;
+}
+
+.pricing-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  margin-top: 3rem;
+}
+
+.pricing-card {
+  text-align: center;
+  border-top: 4px solid var(--secondary-color);
+}
+
+.pricing-card.featured {
+  border-top-color: var(--accent-color);
+  transform: scale(1.05);
+}
+
+.pricing-header {
+  margin-bottom: 2rem;
+}
+
+.pricing-header h3 {
+  color: var(--primary-color);
+  margin-bottom: 0.5rem;
+}
+
+.pricing-price {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: var(--dark-color);
+}
+
+.pricing-price span {
+  font-size: 1rem;
+  font-weight: 400;
+  color: var(--text-color);
+}
+
+.pricing-features {
+  text-align: left;
+  margin: 2rem 0;
+}
+
+.pricing-features ul {
+  list-style: none;
+  padding: 0;
+}
+
+.pricing-features li {
+  padding-left: 2rem;
+  position: relative;
+  margin-bottom: 0.75rem;
+}
+
+.pricing-features li:before {
+  content: "✓";
+  position: absolute;
+  left: 0;
+  color: var(--success-color);
+  font-weight: bold;
+  font-size: 1.25rem;
+}
+
+.response-section {
+  background-color: white;
+}
+
+.response-steps {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  margin-top: 1rem;
+}
+
+.response-step h4 {
+  color: var(--primary-color);
+  margin-bottom: 1rem;
+  font-size: 1.25rem;
+}
+
+.response-step p {
+  margin-bottom: 1rem;
+}
+
+.emergency-preparedness-section {
+  background-color: var(--light-color);
+}
+
+.tips-section {
+  background-color: white;
+}
+
+.tips-card h4 {
+  color: var(--primary-color);
+  margin-bottom: 1rem;
+}
+
+.emergency-cta-section {
+  background: linear-gradient(135deg, #dc2626, #ea580c);
+  color: white;
+}
+
+.emergency-cta-box {
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.emergency-cta-box h2 {
+  color: white;
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.emergency-text {
+  font-size: 1.5rem;
+  margin-bottom: 2rem;
+  font-weight: 600;
+}
+
+.btn-emergency {
+  background-color: white;
+  color: #dc2626;
+  padding: 1.25rem 3rem;
+  font-size: 1.25rem;
+  font-weight: 700;
+  border-radius: 12px;
+  display: inline-block;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  margin-bottom: 1rem;
+}
+
+.btn-emergency:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+  color: #b91c1c;
+}
+
+.emergency-subtext {
+  font-size: 1rem;
+  opacity: 0.9;
+  margin-bottom: 3rem;
+}
+
+.emergency-info-box {
+  background-color: rgba(255, 255, 255, 0.1);
+  padding: 2rem;
+  border-radius: 12px;
+  margin-top: 3rem;
+}
+
+.emergency-info-box h3 {
+  color: white;
+  margin-bottom: 1rem;
+}
+
+.emergency-info-box p {
+  margin-bottom: 1.5rem;
+}
+
+.emergency-options {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  align-items: center;
+}
+
+@media (max-width: 768px) {
+  .expertise-content {
+    grid-template-columns: 1fr;
+  }
+  
+  .cta-buttons {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .cta-buttons .btn {
+    width: 100%;
+    max-width: 300px;
+  }
+  
+  .pricing-card.featured {
+    transform: none;
+  }
+  
+  .emergency-cta-box h2 {
+    font-size: 2rem;
+  }
+  
+  .emergency-text {
+    font-size: 1.25rem;
+  }
+  
+  .btn-emergency {
+    padding: 1rem 2rem;
+    font-size: 1rem;
+  }
+}
+

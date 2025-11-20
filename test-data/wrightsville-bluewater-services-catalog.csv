@@ -1,0 +1,381 @@
+service_number,service_category,service_name,service_description,service_counties,notes
+HVAC-1001,HVAC Services,Rooftop Unit Installation - 3-5 Ton,Complete installation of commercial rooftop HVAC unit including startup and commissioning,"New Hanover, Brunswick, Pender, Onslow, Duplin",Includes electrical hookup and basic ductwork connections
+HVAC-1002,HVAC Services,Rooftop Unit Installation - 7.5-10 Ton,Complete installation of larger commercial rooftop HVAC unit,"New Hanover, Brunswick, Pender, Onslow, Duplin",Includes crane rental if needed
+HVAC-1003,HVAC Services,Rooftop Unit Installation - 15-20 Ton,Heavy-duty commercial rooftop unit installation,"New Hanover, Brunswick, Pender, Onslow, Duplin",Requires structural assessment
+HVAC-1004,HVAC Services,Split System Installation,Installation of commercial split HVAC system,"New Hanover, Brunswick, Pender, Onslow, Duplin",Indoor and outdoor units
+HVAC-1005,HVAC Services,Ductless Mini-Split Installation - Single Zone,Installation of single-zone ductless mini-split system,"New Hanover, Brunswick, Pender, Onslow, Duplin",One indoor head unit
+HVAC-1006,HVAC Services,Ductless Mini-Split Installation - Multi Zone,Installation of multi-zone ductless system,"New Hanover, Brunswick, Pender, Onslow, Duplin",Additional zones beyond first
+HVAC-1007,HVAC Services,VRF System Installation,Variable Refrigerant Flow system installation,"New Hanover, Brunswick, Pender",Requires engineering and design
+HVAC-1008,HVAC Services,Chiller Installation - Air Cooled,Commercial air-cooled chiller installation,"New Hanover, Brunswick, Pender",100+ ton capacity
+HVAC-1009,HVAC Services,Chiller Installation - Water Cooled,Commercial water-cooled chiller installation,"New Hanover, Brunswick, Pender",Includes cooling tower integration
+HVAC-1010,HVAC Services,Boiler Installation - Gas Fired,Commercial gas-fired boiler installation,"New Hanover, Brunswick, Pender, Onslow, Duplin",Based on BTU capacity
+HVAC-1011,HVAC Services,Boiler Installation - Electric,Commercial electric boiler installation,"New Hanover, Brunswick, Pender, Onslow, Duplin",Lower installation complexity
+HVAC-1012,HVAC Services,Building Automation System - New Installation,Complete BAS installation with touchscreen controls,"New Hanover, Brunswick, Pender",Varies by building size and complexity
+HVAC-1013,HVAC Services,Building Automation System Upgrade,Upgrade existing BAS to modern controls,"New Hanover, Brunswick, Pender",Integration with existing systems
+HVAC-1014,HVAC Services,Quarterly HVAC Maintenance - Small Building,Preventive maintenance quarterly service,"New Hanover, Brunswick, Pender, Onslow, Duplin",Up to 5 HVAC units
+HVAC-1015,HVAC Services,Quarterly HVAC Maintenance - Medium Building,Preventive maintenance quarterly service,"New Hanover, Brunswick, Pender, Onslow, Duplin",6-15 HVAC units
+HVAC-1016,HVAC Services,Quarterly HVAC Maintenance - Large Building,Preventive maintenance quarterly service,"New Hanover, Brunswick, Pender, Onslow, Duplin",16-30 HVAC units
+HVAC-1017,HVAC Services,Monthly HVAC Maintenance - Critical Facility,Monthly preventive maintenance for critical facilities,"New Hanover, Brunswick, Pender",Hospitals healthcare data centers
+HVAC-1018,HVAC Services,Annual HVAC Tune-Up,Comprehensive annual system tune-up,"New Hanover, Brunswick, Pender, Onslow, Duplin",Single unit service
+HVAC-1019,HVAC Services,Filter Replacement Service,Regular filter replacement program,"New Hanover, Brunswick, Pender, Onslow, Duplin",Standard filters bulk pricing available
+HVAC-1020,HVAC Services,HEPA Filter Replacement,High-efficiency filter replacement,"New Hanover, Brunswick, Pender, Onslow, Duplin",Medical-grade filtration
+HVAC-1021,HVAC Services,Compressor Replacement,Compressor replacement and refrigerant charge,"New Hanover, Brunswick, Pender, Onslow, Duplin",Includes labor and refrigerant
+HVAC-1022,HVAC Services,Condenser Fan Motor Replacement,Replace condenser fan motor,"New Hanover, Brunswick, Pender, Onslow, Duplin",Commercial grade motors
+HVAC-1023,HVAC Services,Blower Motor Replacement,Indoor blower motor replacement,"New Hanover, Brunswick, Pender, Onslow, Duplin",Includes balancing
+HVAC-1024,HVAC Services,Thermostat Replacement - Programmable,Install programmable thermostat,"New Hanover, Brunswick, Pender, Onslow, Duplin",Standard commercial thermostat
+HVAC-1025,HVAC Services,Thermostat Replacement - Smart,Install smart WiFi-enabled thermostat,"New Hanover, Brunswick, Pender, Onslow, Duplin",Includes app setup
+HVAC-1026,HVAC Services,Refrigerant Leak Repair,Locate and repair refrigerant leak,"New Hanover, Brunswick, Pender, Onslow, Duplin",Plus refrigerant recharge
+HVAC-1027,HVAC Services,Refrigerant Recharge - R-410A,Recharge system with R-410A refrigerant,"New Hanover, Brunswick, Pender, Onslow, Duplin",Current market rates apply
+HVAC-1028,HVAC Services,Refrigerant Recharge - R-22,Recharge system with R-22 refrigerant,"New Hanover, Brunswick, Pender, Onslow, Duplin",Phase-out refrigerant premium pricing
+HVAC-1029,HVAC Services,Ductwork Repair,Repair damaged or disconnected ductwork,"New Hanover, Brunswick, Pender, Onslow, Duplin",Material and labor included
+HVAC-1030,HVAC Services,Ductwork Installation - New,Install new ductwork system,"New Hanover, Brunswick, Pender, Onslow, Duplin",Complete duct installation
+HVAC-1031,HVAC Services,Duct Cleaning Service,Professional duct cleaning and sanitization,"New Hanover, Brunswick, Pender, Onslow, Duplin",Based on square footage
+HVAC-1032,HVAC Services,Coil Cleaning - Evaporator,Clean evaporator coils,"New Hanover, Brunswick, Pender, Onslow, Duplin",Improves efficiency
+HVAC-1033,HVAC Services,Coil Cleaning - Condenser,Clean condenser coils,"New Hanover, Brunswick, Pender, Onslow, Duplin",Improves heat rejection
+HVAC-1034,HVAC Services,Drain Line Cleaning,Clean condensate drain lines,"New Hanover, Brunswick, Pender, Onslow, Duplin",Prevents overflow
+HVAC-1035,HVAC Services,Belt Replacement,Replace worn belts on HVAC equipment,"New Hanover, Brunswick, Pender, Onslow, Duplin",Includes adjustment
+HVAC-1036,HVAC Services,Control Board Replacement,Replace failed control board,"New Hanover, Brunswick, Pender, Onslow, Duplin",OEM parts
+HVAC-1037,HVAC Services,Gas Valve Replacement,Replace gas valve on heating equipment,"New Hanover, Brunswick, Pender, Onslow, Duplin",Includes testing
+HVAC-1038,HVAC Services,Igniter Replacement,Replace hot surface igniter,"New Hanover, Brunswick, Pender, Onslow, Duplin",Common heating repair
+HVAC-1039,HVAC Services,Expansion Valve Replacement,Replace thermostatic expansion valve,"New Hanover, Brunswick, Pender, Onslow, Duplin",Refrigerant recovery and recharge
+HVAC-1040,HVAC Services,Economizer Repair,Repair or replace economizer system,"New Hanover, Brunswick, Pender, Onslow, Duplin",Dampers and controls
+HVAC-1041,HVAC Services,Variable Speed Drive Installation,Install VFD on HVAC equipment,"New Hanover, Brunswick, Pender",Energy savings upgrade
+HVAC-1042,HVAC Services,Energy Audit - Comprehensive,Complete building energy audit,"New Hanover, Brunswick, Pender, Onslow, Duplin",Detailed report with ROI analysis
+HVAC-1043,HVAC Services,Thermal Imaging Inspection,Infrared thermal imaging survey,"New Hanover, Brunswick, Pender, Onslow, Duplin",Identifies energy loss
+HVAC-1044,HVAC Services,Air Balancing Service,Test adjust and balance HVAC system,"New Hanover, Brunswick, Pender",Ensures proper airflow
+HVAC-1045,HVAC Services,Indoor Air Quality Assessment,Comprehensive IAQ testing and analysis,"New Hanover, Brunswick, Pender, Onslow, Duplin",Air sampling and reporting
+HVAC-1046,HVAC Services,UV Light Installation - Single,Install UV germicidal light in air handler,"New Hanover, Brunswick, Pender, Onslow, Duplin",Improves air quality
+HVAC-1047,HVAC Services,Humidifier Installation - Commercial,Install commercial-grade humidification system,"New Hanover, Brunswick, Pender",Steam or evaporative
+HVAC-1048,HVAC Services,Dehumidification System Installation,Install dedicated dehumidification system,"New Hanover, Brunswick, Pender, Onslow, Duplin",For humid climates
+HVAC-1049,HVAC Services,Ventilation System Upgrade,Upgrade ventilation to meet current codes,"New Hanover, Brunswick, Pender, Onslow, Duplin",Varies by requirements
+HVAC-1050,HVAC Services,Makeup Air Unit Installation,Install makeup air unit for commercial kitchen,"New Hanover, Brunswick, Pender, Onslow, Duplin",Replaces exhaust air
+HVAC-1051,HVAC Services,Cooling Tower Maintenance,Cooling tower inspection and maintenance,"New Hanover, Brunswick, Pender",Cleaning chemical treatment
+HVAC-1052,HVAC Services,Cooling Tower Repair,Repair cooling tower components,"New Hanover, Brunswick, Pender",Parts and labor
+HVAC-1053,HVAC Services,Chiller Maintenance - Quarterly,Quarterly chiller maintenance service,"New Hanover, Brunswick, Pender",Includes chemical treatment
+HVAC-1054,HVAC Services,Boiler Maintenance - Annual,Annual boiler inspection and tune-up,"New Hanover, Brunswick, Pender, Onslow, Duplin",Includes combustion analysis
+HVAC-1055,HVAC Services,Boiler Certification Inspection,Required boiler inspection and certification,"New Hanover, Brunswick, Pender, Onslow, Duplin",State compliance
+HVAC-1056,HVAC Services,Emergency HVAC Service Call - After Hours,Emergency HVAC repair outside business hours,"New Hanover, Brunswick, Pender, Onslow, Duplin",Service call fee plus labor
+HVAC-1057,HVAC Services,Emergency HVAC Service Call - Weekend,Weekend emergency HVAC service,"New Hanover, Brunswick, Pender, Onslow, Duplin",Service call fee plus labor
+HVAC-1058,HVAC Services,Standard HVAC Service Call,Regular business hours service call,"New Hanover, Brunswick, Pender, Onslow, Duplin",Diagnosis included
+ELEC-2001,Electrical Services,Electrical Service Upgrade - 200A,Upgrade electrical service to 200 amp,"New Hanover, Brunswick, Pender, Onslow, Duplin",Includes panel and meter
+ELEC-2002,Electrical Services,Electrical Service Upgrade - 400A,Upgrade electrical service to 400 amp,"New Hanover, Brunswick, Pender, Onslow, Duplin",Commercial service upgrade
+ELEC-2003,Electrical Services,Electrical Service Upgrade - 800A,Upgrade electrical service to 800 amp,"New Hanover, Brunswick, Pender",Large commercial upgrade
+ELEC-2004,Electrical Services,Electrical Panel Replacement - 200A,Replace main electrical panel,"New Hanover, Brunswick, Pender, Onslow, Duplin",Includes installation and labeling
+ELEC-2005,Electrical Services,Subpanel Installation - 100A,Install 100 amp subpanel,"New Hanover, Brunswick, Pender, Onslow, Duplin",Includes feeder installation
+ELEC-2006,Electrical Services,Circuit Breaker Replacement - Standard,Replace standard circuit breaker,"New Hanover, Brunswick, Pender, Onslow, Duplin",Single or double pole
+ELEC-2007,Electrical Services,Circuit Breaker Replacement - GFCI,Replace GFCI circuit breaker,"New Hanover, Brunswick, Pender, Onslow, Duplin",GFCI protection required
+ELEC-2008,Electrical Services,Circuit Breaker Replacement - AFCI,Replace AFCI circuit breaker,"New Hanover, Brunswick, Pender, Onslow, Duplin",Arc fault protection
+ELEC-2009,Electrical Services,Transformer Installation - Dry Type,Install dry type transformer,"New Hanover, Brunswick, Pender",Commercial voltage conversion
+ELEC-2010,Electrical Services,Generator Installation - 20kW,Install 20kW standby generator,"New Hanover, Brunswick, Pender, Onslow, Duplin",Natural gas or propane
+ELEC-2011,Electrical Services,Generator Installation - 60kW,Install 60kW standby generator,"New Hanover, Brunswick, Pender, Onslow, Duplin",Includes transfer switch
+ELEC-2012,Electrical Services,Generator Installation - 150kW,Install 150kW standby generator,"New Hanover, Brunswick, Pender",Large commercial installation
+ELEC-2013,Electrical Services,Automatic Transfer Switch Installation,Install automatic transfer switch,"New Hanover, Brunswick, Pender, Onslow, Duplin",Critical power switching
+ELEC-2014,Electrical Services,Generator Maintenance - Quarterly,Quarterly generator preventive maintenance,"New Hanover, Brunswick, Pender, Onslow, Duplin",Load bank testing included annually
+ELEC-2015,Electrical Services,Generator Load Bank Testing,Annual load bank testing of generator,"New Hanover, Brunswick, Pender, Onslow, Duplin",Verify full capacity
+ELEC-2016,Electrical Services,Generator Battery Replacement,Replace generator starting batteries,"New Hanover, Brunswick, Pender, Onslow, Duplin",Based on generator size
+ELEC-2017,Electrical Services,LED Lighting Retrofit - Office,LED conversion for office lighting,"New Hanover, Brunswick, Pender, Onslow, Duplin",Includes fixtures and installation
+ELEC-2018,Electrical Services,LED Lighting Retrofit - High Bay,LED high bay lighting conversion,"New Hanover, Brunswick, Pender, Onslow, Duplin",Industrial warehouse lighting
+ELEC-2019,Electrical Services,LED Lighting Retrofit - Parking Lot,LED parking lot lighting upgrade,"New Hanover, Brunswick, Pender, Onslow, Duplin",Pole mounted fixtures
+ELEC-2020,Electrical Services,Lighting Control System Installation,Install lighting control system,"New Hanover, Brunswick, Pender, Onslow, Duplin",Occupancy sensors and controls
+ELEC-2021,Electrical Services,Occupancy Sensor Installation,Install occupancy sensor switch,"New Hanover, Brunswick, Pender, Onslow, Duplin",Energy saving device
+ELEC-2022,Electrical Services,Photocell Installation,Install photocell lighting control,"New Hanover, Brunswick, Pender, Onslow, Duplin",Dusk to dawn control
+ELEC-2023,Electrical Services,Emergency Lighting Installation,Install emergency lighting fixture,"New Hanover, Brunswick, Pender, Onslow, Duplin",Battery backup lighting
+ELEC-2024,Electrical Services,Exit Sign Installation - LED,Install LED exit sign,"New Hanover, Brunswick, Pender, Onslow, Duplin",Energy efficient
+ELEC-2025,Electrical Services,Exit Sign Battery Replacement,Replace exit sign battery backup,"New Hanover, Brunswick, Pender, Onslow, Duplin",Maintains emergency operation
+ELEC-2026,Electrical Services,Emergency Lighting Testing - Monthly,Monthly emergency lighting test,"New Hanover, Brunswick, Pender, Onslow, Duplin",30-second test
+ELEC-2027,Electrical Services,Emergency Lighting Testing - Annual,Annual 90-minute discharge test,"New Hanover, Brunswick, Pender, Onslow, Duplin",Full compliance test
+ELEC-2028,Electrical Services,Outlet Installation - Standard,Install standard electrical outlet,"New Hanover, Brunswick, Pender, Onslow, Duplin",120V receptacle
+ELEC-2029,Electrical Services,Outlet Installation - 220V,Install 220V outlet,"New Hanover, Brunswick, Pender, Onslow, Duplin",Heavy duty appliances
+ELEC-2030,Electrical Services,GFCI Outlet Installation,Install GFCI protected outlet,"New Hanover, Brunswick, Pender, Onslow, Duplin",Wet location protection
+ELEC-2031,Electrical Services,USB Charging Outlet Installation,Install USB charging outlet,"New Hanover, Brunswick, Pender, Onslow, Duplin",Modern convenience
+ELEC-2032,Electrical Services,Data/Network Outlet Installation,Install data network outlet,"New Hanover, Brunswick, Pender, Onslow, Duplin",Cat6 ethernet
+ELEC-2033,Electrical Services,Dedicated Circuit Installation,Install new dedicated circuit,"New Hanover, Brunswick, Pender, Onslow, Duplin",From panel to device
+ELEC-2034,Electrical Services,Lighting Fixture Installation - Standard,Install standard lighting fixture,"New Hanover, Brunswick, Pender, Onslow, Duplin",Basic commercial fixture
+ELEC-2035,Electrical Services,Lighting Fixture Installation - Decorative,Install decorative lighting fixture,"New Hanover, Brunswick, Pender, Onslow, Duplin",Specialty fixtures
+ELEC-2036,Electrical Services,Track Lighting Installation,Install track lighting system,"New Hanover, Brunswick, Pender, Onslow, Duplin",Adjustable accent lighting
+ELEC-2037,Electrical Services,Can Light Installation,Install recessed can lighting,"New Hanover, Brunswick, Pender, Onslow, Duplin",New construction or retrofit
+ELEC-2038,Electrical Services,Exterior Wall Pack Light Installation,Install exterior wall pack lighting,"New Hanover, Brunswick, Pender, Onslow, Duplin",Building perimeter lighting
+ELEC-2039,Electrical Services,Bollard Light Installation,Install bollard pathway lighting,"New Hanover, Brunswick, Pender, Onslow, Duplin",Includes concrete work
+ELEC-2040,Electrical Services,Sign Lighting Installation,Install sign illumination,"New Hanover, Brunswick, Pender, Onslow, Duplin",Business sign lighting
+ELEC-2041,Electrical Services,Parking Lot Light Pole Installation,Install parking lot light pole with fixture,"New Hanover, Brunswick, Pender, Onslow, Duplin",Complete pole installation
+ELEC-2042,Electrical Services,Electrical Troubleshooting,Diagnose electrical problem,"New Hanover, Brunswick, Pender, Onslow, Duplin",Diagnostic service
+ELEC-2043,Electrical Services,Electrical Wiring Repair,Repair damaged electrical wiring,"New Hanover, Brunswick, Pender, Onslow, Duplin",Plus materials
+ELEC-2044,Electrical Services,Ballast Replacement,Replace fluorescent light ballast,"New Hanover, Brunswick, Pender, Onslow, Duplin",Standard T8 ballast
+ELEC-2045,Electrical Services,LED Driver Replacement,Replace LED driver,"New Hanover, Brunswick, Pender, Onslow, Duplin",LED fixture repair
+ELEC-2046,Electrical Services,Electrical Panel Repair,Repair electrical panel issues,"New Hanover, Brunswick, Pender, Onslow, Duplin",Bus bar connections etc
+ELEC-2047,Electrical Services,Ground Fault Troubleshooting,Locate and repair ground fault,"New Hanover, Brunswick, Pender, Onslow, Duplin",Complex diagnostics
+ELEC-2048,Electrical Services,Arc Flash Assessment,Arc flash hazard assessment,"New Hanover, Brunswick, Pender",NFPA 70E compliance
+ELEC-2049,Electrical Services,Arc Flash Labeling,Install arc flash warning labels,"New Hanover, Brunswick, Pender, Onslow, Duplin",Per panel or equipment
+ELEC-2050,Electrical Services,Thermal Imaging Inspection,Infrared thermal scan of electrical systems,"New Hanover, Brunswick, Pender, Onslow, Duplin",Identifies hot spots
+ELEC-2051,Electrical Services,Power Quality Analysis,Power quality testing and analysis,"New Hanover, Brunswick, Pender",Voltage harmonics etc
+ELEC-2052,Electrical Services,Surge Protection Installation - Panel Mount,Install whole-building surge protector,"New Hanover, Brunswick, Pender, Onslow, Duplin",Panel-mounted SPD
+ELEC-2053,Electrical Services,Surge Protection Installation - Point of Use,Install point-of-use surge protector,"New Hanover, Brunswick, Pender, Onslow, Duplin",Equipment protection
+ELEC-2054,Electrical Services,EV Charging Station Installation - Level 2,Install Level 2 EV charging station,"New Hanover, Brunswick, Pender, Onslow, Duplin",208-240V charger
+ELEC-2055,Electrical Services,EV Charging Station Installation - DC Fast,Install DC fast charging station,"New Hanover, Brunswick, Pender",Requires major electrical upgrade
+ELEC-2056,Electrical Services,EV Charger Service Upgrade,Electrical service upgrade for EV charging,"New Hanover, Brunswick, Pender, Onslow, Duplin",Increase capacity for chargers
+ELEC-2057,Electrical Services,Energy Monitoring System Installation,Install energy monitoring system,"New Hanover, Brunswick, Pender",Real-time energy tracking
+ELEC-2058,Electrical Services,Submetering Installation,Install tenant submetering,"New Hanover, Brunswick, Pender",Individual usage tracking
+ELEC-2059,Electrical Services,Electrical Safety Inspection,Comprehensive electrical safety inspection,"New Hanover, Brunswick, Pender, Onslow, Duplin",Code compliance check
+ELEC-2060,Electrical Services,Electrical Code Compliance Upgrade,Upgrade to meet current electrical codes,"New Hanover, Brunswick, Pender, Onslow, Duplin",Varies by scope
+ELEC-2061,Electrical Services,Emergency Electrical Service - After Hours,Emergency electrical service call,"New Hanover, Brunswick, Pender, Onslow, Duplin",After hours service call
+ELEC-2062,Electrical Services,Standard Electrical Service Call,Standard electrical service call,"New Hanover, Brunswick, Pender, Onslow, Duplin",Business hours
+FIRE-3001,Fire Safety,Fire Alarm System Installation - Small Building,Install complete fire alarm system,"New Hanover, Brunswick, Pender, Onslow, Duplin",Up to 10000 sq ft
+FIRE-3002,Fire Safety,Fire Alarm System Installation - Medium Building,Install complete fire alarm system,"New Hanover, Brunswick, Pender, Onslow, Duplin",10000-30000 sq ft
+FIRE-3003,Fire Safety,Fire Alarm System Installation - Large Building,Install complete fire alarm system,"New Hanover, Brunswick, Pender",30000+ sq ft
+FIRE-3004,Fire Safety,Fire Alarm Panel Replacement,Replace fire alarm control panel,"New Hanover, Brunswick, Pender, Onslow, Duplin",Addressable panel
+FIRE-3005,Fire Safety,Smoke Detector Installation - Standard,Install smoke detector,"New Hanover, Brunswick, Pender, Onslow, Duplin",Addressable device
+FIRE-3006,Fire Safety,Smoke Detector Installation - Multi-Criteria,Install multi-criteria smoke detector,"New Hanover, Brunswick, Pender, Onslow, Duplin",Advanced detection
+FIRE-3007,Fire Safety,Heat Detector Installation,Install heat detector,"New Hanover, Brunswick, Pender, Onslow, Duplin",Fixed temperature or rate-of-rise
+FIRE-3008,Fire Safety,Duct Smoke Detector Installation,Install duct smoke detector,"New Hanover, Brunswick, Pender, Onslow, Duplin",HVAC integration
+FIRE-3009,Fire Safety,Manual Pull Station Installation,Install manual fire alarm pull station,"New Hanover, Brunswick, Pender, Onslow, Duplin",Break glass station
+FIRE-3010,Fire Safety,Horn Strobe Installation,Install horn/strobe notification device,"New Hanover, Brunswick, Pender, Onslow, Duplin",Visual and audible alarm
+FIRE-3011,Fire Safety,Voice Evacuation Speaker Installation,Install voice evacuation speaker,"New Hanover, Brunswick, Pender, Onslow, Duplin",Voice notification
+FIRE-3012,Fire Safety,Fire Alarm Annual Testing,Annual fire alarm inspection and testing,"New Hanover, Brunswick, Pender, Onslow, Duplin",NFPA 72 compliance small building
+FIRE-3013,Fire Safety,Fire Alarm Annual Testing - Large,Annual fire alarm testing large building,"New Hanover, Brunswick, Pender",Extensive device testing
+FIRE-3014,Fire Safety,Fire Alarm Semi-Annual Testing,Semi-annual fire alarm testing,"New Hanover, Brunswick, Pender, Onslow, Duplin",Additional testing frequency
+FIRE-3015,Fire Safety,Fire Alarm Quarterly Testing,Quarterly fire alarm testing,"New Hanover, Brunswick, Pender",Critical facilities
+FIRE-3016,Fire Safety,Smoke Detector Cleaning,Clean and test smoke detectors,"New Hanover, Brunswick, Pender, Onslow, Duplin",Maintenance service
+FIRE-3017,Fire Safety,Smoke Detector Sensitivity Test,Sensitivity test and calibration,"New Hanover, Brunswick, Pender, Onslow, Duplin",Ensures proper operation
+FIRE-3018,Fire Safety,Fire Alarm Battery Replacement,Replace fire alarm panel batteries,"New Hanover, Brunswick, Pender, Onslow, Duplin",Backup power batteries
+FIRE-3019,Fire Safety,Fire Alarm Device Replacement,Replace failed fire alarm device,"New Hanover, Brunswick, Pender, Onslow, Duplin",Smoke heat or pull station
+FIRE-3020,Fire Safety,Fire Sprinkler System Installation,Install complete fire sprinkler system,"New Hanover, Brunswick, Pender, Onslow, Duplin",Wet pipe system
+FIRE-3021,Fire Safety,Fire Sprinkler System Retrofit,Retrofit building with fire sprinkler system,"New Hanover, Brunswick, Pender, Onslow, Duplin",Existing building challenges
+FIRE-3022,Fire Safety,Dry Pipe Sprinkler System,Install dry pipe sprinkler system,"New Hanover, Brunswick, Pender",Freeze protection
+FIRE-3023,Fire Safety,Pre-Action Sprinkler System,Install pre-action sprinkler system,"New Hanover, Brunswick, Pender",Sensitive areas
+FIRE-3024,Fire Safety,Fire Pump Installation,Install fire pump system,"New Hanover, Brunswick, Pender",Boosts water pressure
+FIRE-3025,Fire Safety,Backflow Preventer Installation,Install backflow preventer,"New Hanover, Brunswick, Pender, Onslow, Duplin",Fire sprinkler water supply
+FIRE-3026,Fire Safety,Fire Sprinkler Quarterly Inspection,Quarterly sprinkler system inspection,"New Hanover, Brunswick, Pender, Onslow, Duplin",NFPA 25 compliance
+FIRE-3027,Fire Safety,Fire Sprinkler Annual Testing,Annual sprinkler flow test and inspection,"New Hanover, Brunswick, Pender, Onslow, Duplin",Full system test
+FIRE-3028,Fire Safety,Fire Sprinkler 5-Year Inspection,5-year internal pipe inspection,"New Hanover, Brunswick, Pender",Obstruction investigation
+FIRE-3029,Fire Safety,Fire Pump Weekly Testing,Weekly fire pump churn test,"New Hanover, Brunswick, Pender",Required testing
+FIRE-3030,Fire Safety,Fire Pump Annual Test,Annual fire pump flow test,"New Hanover, Brunswick, Pender",Full performance test
+FIRE-3031,Fire Safety,Backflow Preventer Testing,Annual backflow preventer test,"New Hanover, Brunswick, Pender, Onslow, Duplin",Required testing
+FIRE-3032,Fire Safety,Sprinkler Head Replacement,Replace damaged sprinkler head,"New Hanover, Brunswick, Pender, Onslow, Duplin",Includes testing
+FIRE-3033,Fire Safety,Sprinkler Pipe Repair,Repair fire sprinkler piping,"New Hanover, Brunswick, Pender, Onslow, Duplin",Plus materials
+FIRE-3034,Fire Safety,Sprinkler System Winterization,Winterize dry pipe sprinkler system,"New Hanover, Brunswick, Pender, Onslow, Duplin",Freeze protection
+FIRE-3035,Fire Safety,Kitchen Hood Suppression Installation,Install kitchen hood suppression system,"New Hanover, Brunswick, Pender, Onslow, Duplin",Wet chemical system
+FIRE-3036,Fire Safety,Kitchen Hood Suppression Inspection,Semi-annual hood suppression inspection,"New Hanover, Brunswick, Pender, Onslow, Duplin",Required service
+FIRE-3037,Fire Safety,Clean Agent System Installation,Install clean agent suppression system,"New Hanover, Brunswick, Pender",Server rooms data centers
+FIRE-3038,Fire Safety,Clean Agent System Inspection,Semi-annual clean agent inspection,"New Hanover, Brunswick, Pender",Agent level check
+FIRE-3039,Fire Safety,Fire Extinguisher - Annual Service,Annual fire extinguisher inspection,"New Hanover, Brunswick, Pender, Onslow, Duplin",Tag and inspect
+FIRE-3040,Fire Safety,Fire Extinguisher - 6 Year Maintenance,6-year internal inspection,"New Hanover, Brunswick, Pender, Onslow, Duplin",Internal exam
+FIRE-3041,Fire Safety,Fire Extinguisher - 12 Year Hydro Test,12-year hydrostatic test,"New Hanover, Brunswick, Pender, Onslow, Duplin",Pressure vessel test
+FIRE-3042,Fire Safety,Fire Extinguisher Recharge,Recharge fire extinguisher after use,"New Hanover, Brunswick, Pender, Onslow, Duplin",Based on type
+FIRE-3043,Fire Safety,Fire Extinguisher - New 5lb ABC,Supply and install new 5lb ABC extinguisher,"New Hanover, Brunswick, Pender, Onslow, Duplin",Standard commercial
+FIRE-3044,Fire Safety,Fire Extinguisher - New 10lb ABC,Supply and install new 10lb ABC extinguisher,"New Hanover, Brunswick, Pender, Onslow, Duplin",Larger capacity
+FIRE-3045,Fire Safety,Fire Extinguisher - New 15lb CO2,Supply and install new CO2 extinguisher,"New Hanover, Brunswick, Pender, Onslow, Duplin",Electrical fires
+FIRE-3046,Fire Safety,Fire Extinguisher - New Class K,Supply and install Class K kitchen extinguisher,"New Hanover, Brunswick, Pender, Onslow, Duplin",Commercial kitchen
+FIRE-3047,Fire Safety,Fire Extinguisher Cabinet Installation,Install fire extinguisher cabinet,"New Hanover, Brunswick, Pender, Onslow, Duplin",Surface or recessed mount
+FIRE-3048,Fire Safety,Emergency Light Installation,Install emergency light fixture,"New Hanover, Brunswick, Pender, Onslow, Duplin",Battery backup
+FIRE-3049,Fire Safety,Exit Sign Installation,Install illuminated exit sign,"New Hanover, Brunswick, Pender, Onslow, Duplin",LED exit sign
+FIRE-3050,Fire Safety,Emergency Lighting Monthly Test,Monthly 30-second emergency lighting test,"New Hanover, Brunswick, Pender, Onslow, Duplin",Code required testing
+FIRE-3051,Fire Safety,Emergency Lighting Annual Test,Annual 90-minute discharge test,"New Hanover, Brunswick, Pender, Onslow, Duplin",Full battery test
+FIRE-3052,Fire Safety,Emergency Light Battery Replacement,Replace emergency light battery,"New Hanover, Brunswick, Pender, Onslow, Duplin",Maintains backup power
+FIRE-3053,Fire Safety,Fire Damper Inspection,Fire damper inspection and testing,"New Hanover, Brunswick, Pender, Onslow, Duplin",Access and test
+FIRE-3054,Fire Safety,Smoke Damper Inspection,Smoke damper inspection and testing,"New Hanover, Brunswick, Pender, Onslow, Duplin",HVAC fire protection
+FIRE-3055,Fire Safety,Fire Damper Repair,Repair or replace fire damper,"New Hanover, Brunswick, Pender, Onslow, Duplin",Restore operation
+FIRE-3056,Fire Safety,Fire Door Inspection,Inspect fire door and hardware,"New Hanover, Brunswick, Pender, Onslow, Duplin",Self-closing operation
+FIRE-3057,Fire Safety,Fire Door Repair,Repair fire door hardware,"New Hanover, Brunswick, Pender, Onslow, Duplin",Closer hinges seal
+FIRE-3058,Fire Safety,Fire Safety Training,Fire safety and evacuation training,"New Hanover, Brunswick, Pender, Onslow, Duplin",Up to 25 people
+FIRE-3059,Fire Safety,Fire Extinguisher Training,Hands-on fire extinguisher training,"New Hanover, Brunswick, Pender, Onslow, Duplin",Up to 15 people
+FIRE-3060,Fire Safety,Fire Drill Coordination,Coordinate and document fire drill,"New Hanover, Brunswick, Pender, Onslow, Duplin",Compliance documentation
+FIRE-3061,Fire Safety,Fire Safety Plan Development,Develop comprehensive fire safety plan,"New Hanover, Brunswick, Pender, Onslow, Duplin",Custom plan
+FIRE-3062,Fire Safety,Emergency Fire System Repair,Emergency fire system repair service,"New Hanover, Brunswick, Pender, Onslow, Duplin",After hours service call
+SECU-4001,Security Systems,Access Control System Installation - Small,Install complete access control system,"New Hanover, Brunswick, Pender, Onslow, Duplin",Up to 10 doors
+SECU-4002,Security Systems,Access Control System Installation - Medium,Install access control system,"New Hanover, Brunswick, Pender, Onslow, Duplin",10-25 doors
+SECU-4003,Security Systems,Access Control System Installation - Large,Install enterprise access control system,"New Hanover, Brunswick, Pender",25+ doors multi-building
+SECU-4004,Security Systems,Access Control Door Installation,Add access control to single door,"New Hanover, Brunswick, Pender, Onslow, Duplin",Card reader lock controller
+SECU-4005,Security Systems,Biometric Access Control Installation,Install biometric access control,"New Hanover, Brunswick, Pender",Fingerprint or facial recognition
+SECU-4006,Security Systems,Mobile Access Control Upgrade,Upgrade to mobile credentials,"New Hanover, Brunswick, Pender, Onslow, Duplin",Smartphone access
+SECU-4007,Security Systems,Access Card Programming,Program new access card,"New Hanover, Brunswick, Pender, Onslow, Duplin",Standard proximity card
+SECU-4008,Security Systems,Access Fob Programming,Program new key fob,"New Hanover, Brunswick, Pender, Onslow, Duplin",Key fob credential
+SECU-4009,Security Systems,Visitor Management System,Install visitor management system,"New Hanover, Brunswick, Pender, Onslow, Duplin",Check-in kiosk and software
+SECU-4010,Security Systems,Access Control Maintenance,Annual access control maintenance,"New Hanover, Brunswick, Pender, Onslow, Duplin",Testing and updates
+SECU-4011,Security Systems,Video Surveillance Installation - 4 Camera,Install 4-camera surveillance system,"New Hanover, Brunswick, Pender, Onslow, Duplin",IP cameras and NVR
+SECU-4012,Security Systems,Video Surveillance Installation - 8 Camera,Install 8-camera surveillance system,"New Hanover, Brunswick, Pender, Onslow, Duplin",Complete system
+SECU-4013,Security Systems,Video Surveillance Installation - 16 Camera,Install 16-camera surveillance system,"New Hanover, Brunswick, Pender",Enterprise system
+SECU-4014,Security Systems,IP Camera Installation - Indoor,Install indoor IP camera,"New Hanover, Brunswick, Pender, Onslow, Duplin",HD camera and configuration
+SECU-4015,Security Systems,IP Camera Installation - Outdoor,Install outdoor IP camera,"New Hanover, Brunswick, Pender, Onslow, Duplin",Weatherproof camera
+SECU-4016,Security Systems,PTZ Camera Installation,Install pan-tilt-zoom camera,"New Hanover, Brunswick, Pender, Onslow, Duplin",Motorized PTZ camera
+SECU-4017,Security Systems,License Plate Recognition Camera,Install LPR camera system,"New Hanover, Brunswick, Pender",Specialized LPR camera
+SECU-4018,Security Systems,Network Video Recorder Installation,Install NVR system,"New Hanover, Brunswick, Pender, Onslow, Duplin",Based on channel count
+SECU-4019,Security Systems,Video Storage Expansion,Expand video storage capacity,"New Hanover, Brunswick, Pender, Onslow, Duplin",Additional hard drives
+SECU-4020,Security Systems,Cloud Video Storage Setup,Setup cloud video storage,"New Hanover, Brunswick, Pender, Onslow, Duplin",Monthly cloud storage fee
+SECU-4021,Security Systems,Video Analytics Software,Install video analytics software,"New Hanover, Brunswick, Pender",AI-powered analytics
+SECU-4022,Security Systems,Camera Maintenance Service,Annual camera cleaning and maintenance,"New Hanover, Brunswick, Pender, Onslow, Duplin",Clean and test
+SECU-4023,Security Systems,Intrusion Alarm Installation - Small,Install intrusion alarm system,"New Hanover, Brunswick, Pender, Onslow, Duplin",Up to 10 zones
+SECU-4024,Security Systems,Intrusion Alarm Installation - Large,Install intrusion alarm system,"New Hanover, Brunswick, Pender, Onslow, Duplin",20+ zones
+SECU-4025,Security Systems,Door Contact Installation,Install door contact sensor,"New Hanover, Brunswick, Pender, Onslow, Duplin",Wired or wireless
+SECU-4026,Security Systems,Window Contact Installation,Install window contact sensor,"New Hanover, Brunswick, Pender, Onslow, Duplin",Glass break or contact
+SECU-4027,Security Systems,Motion Detector Installation,Install motion detector,"New Hanover, Brunswick, Pender, Onslow, Duplin",PIR or dual-tech
+SECU-4028,Security Systems,Glass Break Detector Installation,Install glass break sensor,"New Hanover, Brunswick, Pender, Onslow, Duplin",Acoustic detection
+SECU-4029,Security Systems,Panic Button Installation,Install panic/duress button,"New Hanover, Brunswick, Pender, Onslow, Duplin",Emergency activation
+SECU-4030,Security Systems,Intrusion Alarm Monitoring,Monthly intrusion alarm monitoring,"New Hanover, Brunswick, Pender, Onslow, Duplin",24/7 central station monitoring
+SECU-4031,Security Systems,Video Alarm Verification,Video verified alarm monitoring,"New Hanover, Brunswick, Pender, Onslow, Duplin",Video clip verification
+SECU-4032,Security Systems,Intercom System Installation,Install video intercom system,"New Hanover, Brunswick, Pender, Onslow, Duplin",Entry intercom with video
+SECU-4033,Security Systems,Multi-Station Intercom,Install multi-station intercom,"New Hanover, Brunswick, Pender, Onslow, Duplin",IP-based intercom
+SECU-4034,Security Systems,Perimeter Intrusion Detection,Install perimeter detection system,"New Hanover, Brunswick, Pender",Fence sensors and detection
+SECU-4035,Security Systems,Automated Gate System,Install automated gate with access control,"New Hanover, Brunswick, Pender, Onslow, Duplin",Vehicle gate automation
+SECU-4036,Security Systems,Bollard Installation - Security,Install security bollards,"New Hanover, Brunswick, Pender, Onslow, Duplin",Fixed or removable
+SECU-4037,Security Systems,Security Camera Repair,Repair or replace security camera,"New Hanover, Brunswick, Pender, Onslow, Duplin",Troubleshooting and repair
+SECU-4038,Security Systems,Access Control Repair,Repair access control system,"New Hanover, Brunswick, Pender, Onslow, Duplin",Diagnostic and repair labor
+SECU-4039,Security Systems,Security System Integration,Integrate multiple security systems,"New Hanover, Brunswick, Pender",Unified platform
+SECU-4040,Security Systems,Security Assessment,Comprehensive security assessment,"New Hanover, Brunswick, Pender, Onslow, Duplin",Threat and vulnerability analysis
+SECU-4041,Security Systems,Emergency Security Service,Emergency security system repair,"New Hanover, Brunswick, Pender, Onslow, Duplin",After hours service
+JANI-5001,Janitorial Services,Daily Office Cleaning - Small,Daily janitorial service,"New Hanover, Brunswick, Pender, Onslow, Duplin",Up to 5000 sq ft
+JANI-5002,Janitorial Services,Daily Office Cleaning - Medium,Daily janitorial service,"New Hanover, Brunswick, Pender, Onslow, Duplin",5000-10000 sq ft
+JANI-5003,Janitorial Services,Daily Office Cleaning - Large,Daily janitorial service,"New Hanover, Brunswick, Pender, Onslow, Duplin",10000-20000 sq ft
+JANI-5004,Janitorial Services,Daily Office Cleaning - Extra Large,Daily janitorial service,"New Hanover, Brunswick, Pender",20000+ sq ft
+JANI-5005,Janitorial Services,Nightly Cleaning Service,5 nights per week cleaning,"New Hanover, Brunswick, Pender, Onslow, Duplin",Monday-Friday service
+JANI-5006,Janitorial Services,3x Weekly Cleaning,Three times weekly cleaning,"New Hanover, Brunswick, Pender, Onslow, Duplin",MWF service
+JANI-5007,Janitorial Services,2x Weekly Cleaning,Twice weekly cleaning,"New Hanover, Brunswick, Pender, Onslow, Duplin",Cost-effective option
+JANI-5008,Janitorial Services,Weekly Deep Clean,Weekly comprehensive cleaning,"New Hanover, Brunswick, Pender, Onslow, Duplin",Weekly service
+JANI-5009,Janitorial Services,Restroom Cleaning Service,Daily restroom cleaning and sanitization,"New Hanover, Brunswick, Pender, Onslow, Duplin",Per restroom monthly rate
+JANI-5010,Janitorial Services,Break Room Cleaning,Daily break room cleaning,"New Hanover, Brunswick, Pender, Onslow, Duplin",Kitchen cleaning
+JANI-5011,Janitorial Services,Lobby Cleaning Service,Daily lobby and entrance cleaning,"New Hanover, Brunswick, Pender, Onslow, Duplin",First impression maintenance
+JANI-5012,Janitorial Services,Floor Care - VCT Strip and Wax,Strip and refinish VCT flooring,"New Hanover, Brunswick, Pender, Onslow, Duplin",Floor restoration
+JANI-5013,Janitorial Services,Floor Care - Burnishing,High-speed burnishing service,"New Hanover, Brunswick, Pender, Onslow, Duplin",High-gloss finish
+JANI-5014,Janitorial Services,Floor Care - Buffing,Floor buffing service,"New Hanover, Brunswick, Pender, Onslow, Duplin",Maintain appearance
+JANI-5015,Janitorial Services,Floor Sealing,Apply floor sealer,"New Hanover, Brunswick, Pender, Onslow, Duplin",Protect floor finish
+JANI-5016,Janitorial Services,Carpet Deep Cleaning,Hot water extraction carpet cleaning,"New Hanover, Brunswick, Pender, Onslow, Duplin",Deep clean carpets
+JANI-5017,Janitorial Services,Carpet Spot Cleaning,Spot clean carpet stains,"New Hanover, Brunswick, Pender, Onslow, Duplin",Individual stain treatment
+JANI-5018,Janitorial Services,Carpet Protection Treatment,Apply carpet protectant,"New Hanover, Brunswick, Pender, Onslow, Duplin",Scotchgard treatment
+JANI-5019,Janitorial Services,Upholstery Cleaning,Clean office furniture upholstery,"New Hanover, Brunswick, Pender, Onslow, Duplin",Chairs couches etc
+JANI-5020,Janitorial Services,Tile and Grout Cleaning,Deep clean tile and grout,"New Hanover, Brunswick, Pender, Onslow, Duplin",Restore grout appearance
+JANI-5021,Janitorial Services,Grout Sealing,Seal tile grout lines,"New Hanover, Brunswick, Pender, Onslow, Duplin",Protect from staining
+JANI-5022,Janitorial Services,Stone Floor Polishing,Polish marble or stone floors,"New Hanover, Brunswick, Pender, Onslow, Duplin",Restore shine
+JANI-5023,Janitorial Services,Concrete Floor Cleaning,Clean and seal concrete floors,"New Hanover, Brunswick, Pender, Onslow, Duplin",Industrial cleaning
+JANI-5024,Janitorial Services,Window Cleaning - Interior,Interior window cleaning,"New Hanover, Brunswick, Pender, Onslow, Duplin",Standard windows
+JANI-5025,Janitorial Services,Window Cleaning - Exterior Ground Level,Exterior window cleaning ground level,"New Hanover, Brunswick, Pender, Onslow, Duplin",Ground level access
+JANI-5026,Janitorial Services,Window Cleaning - High Rise,High-rise exterior window cleaning,"New Hanover, Brunswick, Pender",Specialized equipment required
+JANI-5027,Janitorial Services,Window Cleaning - Monthly Service,Monthly window cleaning service,"New Hanover, Brunswick, Pender, Onslow, Duplin",Interior and exterior
+JANI-5028,Janitorial Services,Pressure Washing - Exterior,Pressure wash exterior surfaces,"New Hanover, Brunswick, Pender, Onslow, Duplin",Sidewalks walls etc
+JANI-5029,Janitorial Services,Pressure Washing - Parking Lot,Pressure wash parking lot,"New Hanover, Brunswick, Pender, Onslow, Duplin",Remove oil and grime
+JANI-5030,Janitorial Services,Gum Removal,Remove gum from floors and surfaces,"New Hanover, Brunswick, Pender, Onslow, Duplin",Specialized removal
+JANI-5031,Janitorial Services,Day Porter Service - Full Time,Full-time day porter,"New Hanover, Brunswick, Pender, Onslow, Duplin",8 hours per day M-F
+JANI-5032,Janitorial Services,Day Porter Service - Part Time,Part-time day porter,"New Hanover, Brunswick, Pender, Onslow, Duplin",4 hours per day
+JANI-5033,Janitorial Services,Disinfection Service - Electrostatic,Electrostatic disinfection service,"New Hanover, Brunswick, Pender, Onslow, Duplin",Enhanced disinfection
+JANI-5034,Janitorial Services,High-Touch Surface Sanitization,Sanitize high-touch surfaces,"New Hanover, Brunswick, Pender, Onslow, Duplin",Additional daily service
+JANI-5035,Janitorial Services,Medical Facility Cleaning,Healthcare facility specialized cleaning,"New Hanover, Brunswick, Pender, Onslow, Duplin",Per sq ft monthly rate
+JANI-5036,Janitorial Services,Post-Construction Cleaning,Post-construction cleanup,"New Hanover, Brunswick, Pender, Onslow, Duplin",Final cleaning
+JANI-5037,Janitorial Services,Move-In/Move-Out Cleaning,Tenant turnover cleaning,"New Hanover, Brunswick, Pender, Onslow, Duplin",Complete cleaning
+JANI-5038,Janitorial Services,Special Event Cleaning,Before and after event cleaning,"New Hanover, Brunswick, Pender, Onslow, Duplin",Based on event size
+JANI-5039,Janitorial Services,Porter Service - Event,Porter service during event,"New Hanover, Brunswick, Pender, Onslow, Duplin",Maintain cleanliness during event
+JANI-5040,Janitorial Services,Trash Removal Service,Additional trash removal service,"New Hanover, Brunswick, Pender, Onslow, Duplin",Extra pickups
+JANI-5041,Janitorial Services,Supply Restocking,Restroom supplies restocking,"New Hanover, Brunswick, Pender, Onslow, Duplin",Paper products soap etc
+JANI-5042,Janitorial Services,Green Cleaning Program,Eco-friendly cleaning program,"New Hanover, Brunswick, Pender, Onslow, Duplin",Monthly premium for green products
+JANI-5043,Janitorial Services,Quality Control Inspection,Monthly quality inspection,"New Hanover, Brunswick, Pender, Onslow, Duplin",Documented inspection
+JANI-5044,Janitorial Services,Emergency Cleaning Service,Emergency cleaning response,"New Hanover, Brunswick, Pender, Onslow, Duplin",Spills accidents etc
+INSP-6001,Inspections,Comprehensive Building Inspection,Complete multi-system building inspection,"New Hanover, Brunswick, Pender, Onslow, Duplin",All major systems
+INSP-6002,Inspections,Pre-Purchase Property Inspection,Due diligence inspection for property purchase,"New Hanover, Brunswick, Pender, Onslow, Duplin",Detailed report for buyers
+INSP-6003,Inspections,Annual Building Inspection,Annual property condition assessment,"New Hanover, Brunswick, Pender, Onslow, Duplin",Ongoing monitoring
+INSP-6004,Inspections,Quarterly Building Inspection,Quarterly preventive inspection,"New Hanover, Brunswick, Pender, Onslow, Duplin",Regular monitoring
+INSP-6005,Inspections,HVAC System Inspection,Detailed HVAC system assessment,"New Hanover, Brunswick, Pender, Onslow, Duplin",All HVAC equipment
+INSP-6006,Inspections,Electrical System Inspection,Comprehensive electrical system inspection,"New Hanover, Brunswick, Pender, Onslow, Duplin",Power distribution and safety
+INSP-6007,Inspections,Plumbing System Inspection,Plumbing system assessment,"New Hanover, Brunswick, Pender, Onslow, Duplin",All plumbing systems
+INSP-6008,Inspections,Roof Inspection - Standard,Visual roof inspection,"New Hanover, Brunswick, Pender, Onslow, Duplin",Visual assessment and report
+INSP-6009,Inspections,Roof Inspection - Infrared,Infrared roof moisture detection,"New Hanover, Brunswick, Pender, Onslow, Duplin",Thermal imaging scan
+INSP-6010,Inspections,Roof Inspection - Drone,Drone aerial roof inspection,"New Hanover, Brunswick, Pender, Onslow, Duplin",Aerial photography
+INSP-6011,Inspections,Structural Inspection,Structural system inspection,"New Hanover, Brunswick, Pender",Foundation framing roof structure
+INSP-6012,Inspections,Building Envelope Inspection,Building envelope assessment,"New Hanover, Brunswick, Pender, Onslow, Duplin",Walls windows doors weatherization
+INSP-6013,Inspections,ADA Compliance Inspection,ADA accessibility compliance review,"New Hanover, Brunswick, Pender, Onslow, Duplin",Code compliance
+INSP-6014,Inspections,OSHA Safety Audit,OSHA compliance safety audit,"New Hanover, Brunswick, Pender, Onslow, Duplin",Workplace safety assessment
+INSP-6015,Inspections,Fire Code Compliance Inspection,Fire safety code compliance review,"New Hanover, Brunswick, Pender, Onslow, Duplin",Life safety systems
+INSP-6016,Inspections,Environmental Compliance Inspection,Environmental compliance assessment,"New Hanover, Brunswick, Pender, Onslow, Duplin",EPA regulations
+INSP-6017,Inspections,Energy Efficiency Assessment,Comprehensive energy audit,"New Hanover, Brunswick, Pender, Onslow, Duplin",Energy savings opportunities
+INSP-6018,Inspections,Indoor Air Quality Assessment,IAQ testing and analysis,"New Hanover, Brunswick, Pender, Onslow, Duplin",Air sampling and report
+INSP-6019,Inspections,Asbestos Survey,Asbestos inspection and sampling,"New Hanover, Brunswick, Pender, Onslow, Duplin",Certified asbestos inspector
+INSP-6020,Inspections,Lead Paint Inspection,Lead-based paint inspection,"New Hanover, Brunswick, Pender, Onslow, Duplin",Lead testing
+INSP-6021,Inspections,Mold Inspection,Mold inspection and assessment,"New Hanover, Brunswick, Pender, Onslow, Duplin",Visual and moisture testing
+INSP-6022,Inspections,Radon Testing,Radon level testing,"New Hanover, Brunswick, Pender, Onslow, Duplin",48-hour test
+INSP-6023,Inspections,Phase I Environmental Site Assessment,ASTM Phase I ESA,"New Hanover, Brunswick, Pender",Environmental due diligence
+INSP-6024,Inspections,Water Intrusion Investigation,Identify sources of water intrusion,"New Hanover, Brunswick, Pender, Onslow, Duplin",Leak detection
+INSP-6025,Inspections,Thermal Imaging Inspection,Infrared thermal imaging survey,"New Hanover, Brunswick, Pender, Onslow, Duplin",Energy loss moisture electrical
+INSP-6026,Inspections,Capital Planning Inspection,Long-term capital planning assessment,"New Hanover, Brunswick, Pender",10-20 year forecast
+INSP-6027,Inspections,Property Condition Assessment,PCA for lenders and investors,"New Hanover, Brunswick, Pender",Detailed condition report
+INSP-6028,Inspections,Reserve Study,Reserve fund analysis for associations,"New Hanover, Brunswick, Pender",Long-term planning
+INSP-6029,Inspections,Post-Storm Damage Assessment,Document storm damage,"New Hanover, Brunswick, Pender, Onslow, Duplin",Insurance documentation
+INSP-6030,Inspections,Insurance Inspection Preparation,Prepare for insurance inspection,"New Hanover, Brunswick, Pender, Onslow, Duplin",Correct deficiencies
+INSP-6031,Inspections,Fire Marshal Inspection Prep,Prepare for fire marshal inspection,"New Hanover, Brunswick, Pender, Onslow, Duplin",Code compliance prep
+INSP-6032,Inspections,Tenant Improvement Inspection,Inspect tenant improvement work,"New Hanover, Brunswick, Pender, Onslow, Duplin",Quality verification
+INSP-6033,Inspections,Maintenance Contract Audit,Audit contractor performance,"New Hanover, Brunswick, Pender, Onslow, Duplin",Verify service quality
+INSP-6034,Inspections,Follow-Up Inspection,Verify correction of deficiencies,"New Hanover, Brunswick, Pender, Onslow, Duplin",Re-inspection after repairs
+EMER-7001,Emergency Services,Emergency Service Call - HVAC After Hours,Emergency HVAC service call,"New Hanover, Brunswick, Pender, Onslow, Duplin",After hours service call fee
+EMER-7002,Emergency Services,Emergency Service Call - Electrical After Hours,Emergency electrical service call,"New Hanover, Brunswick, Pender, Onslow, Duplin",After hours electrical emergency
+EMER-7003,Emergency Services,Emergency Service Call - Plumbing After Hours,Emergency plumbing service call,"New Hanover, Brunswick, Pender, Onslow, Duplin",After hours plumbing emergency
+EMER-7004,Emergency Services,Emergency Service Call - Fire System After Hours,Emergency fire system service call,"New Hanover, Brunswick, Pender, Onslow, Duplin",Fire protection emergency
+EMER-7005,Emergency Services,Emergency Service Call - Weekend,Weekend emergency service call,"New Hanover, Brunswick, Pender, Onslow, Duplin",Weekend rate
+EMER-7006,Emergency Services,Emergency Service Call - Holiday,Holiday emergency service call,"New Hanover, Brunswick, Pender, Onslow, Duplin",Major holiday premium
+EMER-7007,Emergency Services,Emergency Generator Rental - Portable,Portable generator rental,"New Hanover, Brunswick, Pender, Onslow, Duplin",Temporary power solution
+EMER-7008,Emergency Services,Emergency Generator Rental - Large,Large trailer-mounted generator rental,"New Hanover, Brunswick, Pender, Onslow, Duplin",Extended outage support
+EMER-7009,Emergency Services,Emergency Roof Tarping,Emergency roof tarp installation,"New Hanover, Brunswick, Pender, Onslow, Duplin",Storm damage mitigation
+EMER-7010,Emergency Services,Emergency Board Up Service,Board up broken windows and doors,"New Hanover, Brunswick, Pender, Onslow, Duplin",Security after damage
+EMER-7011,Emergency Services,Emergency Water Extraction,Emergency water removal,"New Hanover, Brunswick, Pender, Onslow, Duplin",Water damage response
+EMER-7012,Emergency Services,Emergency Dehumidification,Industrial dehumidification service,"New Hanover, Brunswick, Pender, Onslow, Duplin",Water damage drying
+EMER-7013,Emergency Services,Emergency Storm Response,Storm damage emergency response,"New Hanover, Brunswick, Pender, Onslow, Duplin",Immediate storm response
+EMER-7014,Emergency Services,Emergency Building Lockout,After hours building lockout service,"New Hanover, Brunswick, Pender, Onslow, Duplin",Emergency access
+EMER-7015,Emergency Services,Emergency Security Response,Emergency security system repair,"New Hanover, Brunswick, Pender, Onslow, Duplin",Security system down
+EMER-7016,Emergency Services,Emergency Gas Leak Response,Emergency gas leak repair,"New Hanover, Brunswick, Pender, Onslow, Duplin",Safety priority response
+EMER-7017,Emergency Services,Fire Watch Service,Fire watch during system impairment,"New Hanover, Brunswick, Pender, Onslow, Duplin",Required when system down
+EMER-7018,Emergency Services,Emergency Cleanup Service,Emergency cleaning after incident,"New Hanover, Brunswick, Pender, Onslow, Duplin",Spills accidents etc
+MAINT-8001,Preventive Maintenance,Comprehensive Maintenance Contract - Small,All-inclusive maintenance contract,"New Hanover, Brunswick, Pender, Onslow, Duplin",Up to 10000 sq ft
+MAINT-8002,Preventive Maintenance,Comprehensive Maintenance Contract - Medium,All-inclusive maintenance contract,"New Hanover, Brunswick, Pender, Onslow, Duplin",10000-25000 sq ft
+MAINT-8003,Preventive Maintenance,Comprehensive Maintenance Contract - Large,All-inclusive maintenance contract,"New Hanover, Brunswick, Pender, Onslow, Duplin",25000-50000 sq ft
+MAINT-8004,Preventive Maintenance,Comprehensive Maintenance Contract - Extra Large,All-inclusive maintenance contract,"New Hanover, Brunswick, Pender",50000+ sq ft
+MAINT-8005,Preventive Maintenance,HVAC-Only Maintenance Contract,HVAC preventive maintenance program,"New Hanover, Brunswick, Pender, Onslow, Duplin",All HVAC equipment
+MAINT-8006,Preventive Maintenance,Electrical-Only Maintenance Contract,Electrical preventive maintenance program,"New Hanover, Brunswick, Pender, Onslow, Duplin",Electrical systems
+MAINT-8007,Preventive Maintenance,Plumbing-Only Maintenance Contract,Plumbing preventive maintenance program,"New Hanover, Brunswick, Pender, Onslow, Duplin",Plumbing systems
+MAINT-8008,Preventive Maintenance,Fire Safety Maintenance Contract,Fire protection systems maintenance,"New Hanover, Brunswick, Pender, Onslow, Duplin",All fire systems
+MAINT-8009,Preventive Maintenance,Filter Change Program,Automated filter replacement program,"New Hanover, Brunswick, Pender, Onslow, Duplin",Regular filter service
+MAINT-8010,Preventive Maintenance,Quarterly Maintenance Plan,Quarterly multi-system maintenance,"New Hanover, Brunswick, Pender, Onslow, Duplin",Comprehensive PM service
+MAINT-8011,Preventive Maintenance,Semi-Annual Maintenance Plan,Twice yearly maintenance service,"New Hanover, Brunswick, Pender, Onslow, Duplin",Basic PM program
+MAINT-8012,Preventive Maintenance,Annual Maintenance Service,Annual comprehensive maintenance,"New Hanover, Brunswick, Pender, Onslow, Duplin",Yearly service
+MAINT-8013,Preventive Maintenance,Equipment Monitoring Service,Remote equipment monitoring,"New Hanover, Brunswick, Pender, Onslow, Duplin",Per equipment monthly fee
+MAINT-8014,Preventive Maintenance,Predictive Maintenance Program,Advanced predictive maintenance,"New Hanover, Brunswick, Pender",Sensor-based monitoring
+CONS-9001,Consulting Services,Facility Assessment Consulting,Comprehensive facility consulting,"New Hanover, Brunswick, Pender, Onslow, Duplin",Expert consulting
+CONS-9002,Consulting Services,Energy Management Consulting,Energy efficiency consulting,"New Hanover, Brunswick, Pender, Onslow, Duplin",Reduce energy costs
+CONS-9003,Consulting Services,Building Automation Design,BAS system design services,"New Hanover, Brunswick, Pender",Custom BAS design
+CONS-9004,Consulting Services,Capital Planning Consulting,Long-term capital planning,"New Hanover, Brunswick, Pender",Multi-year planning
+CONS-9005,Consulting Services,Vendor Performance Audit,Audit current vendor performance,"New Hanover, Brunswick, Pender, Onslow, Duplin",Service quality assessment
+CONS-9006,Consulting Services,Facility Optimization Study,Optimize facility operations,"New Hanover, Brunswick, Pender",Efficiency improvements
+CONS-9007,Consulting Services,Sustainability Consulting,Green building and sustainability consulting,"New Hanover, Brunswick, Pender",LEED and sustainability
+CONS-9008,Consulting Services,Code Compliance Consulting,Building code compliance consulting,"New Hanover, Brunswick, Pender, Onslow, Duplin",Code expert guidance
+CONS-9009,Consulting Services,Project Management Services,Construction project management,"New Hanover, Brunswick, Pender",Full project oversight
+CONS-9010,Consulting Services,Commissioning Services,Building systems commissioning,"New Hanover, Brunswick, Pender",New construction commissioning
+CONS-9011,Consulting Services,Retro-Commissioning Services,Existing building retro-commissioning,"New Hanover, Brunswick, Pender",Optimize existing systems
+TRAIN-10001,Training Services,HVAC Basics Training,HVAC fundamentals training,"New Hanover, Brunswick, Pender, Onslow, Duplin",Up to 15 people
+TRAIN-10002,Training Services,Electrical Safety Training,Electrical safety training program,"New Hanover, Brunswick, Pender, Onslow, Duplin",OSHA and NEC compliance
+TRAIN-10003,Training Services,Fire Safety Training,Fire safety and evacuation training,"New Hanover, Brunswick, Pender, Onslow, Duplin",Life safety training
+TRAIN-10004,Training Services,Emergency Response Training,Emergency procedures training,"New Hanover, Brunswick, Pender, Onslow, Duplin",Crisis response
+TRAIN-10005,Training Services,Building Systems Training,Building systems operations training,"New Hanover, Brunswick, Pender",Custom training program
+TRAIN-10006,Training Services,Energy Management Training,Energy efficiency training,"New Hanover, Brunswick, Pender, Onslow, Duplin",Reduce operating costs
+TRAIN-10007,Training Services,Lockout Tagout Training,LOTO safety procedures training,"New Hanover, Brunswick, Pender, Onslow, Duplin",OSHA compliance
+SPEC-11001,Specialty Services,Kitchen Exhaust Hood Cleaning,Commercial kitchen hood cleaning,"New Hanover, Brunswick, Pender, Onslow, Duplin",Fire prevention cleaning
+SPEC-11002,Specialty Services,Grease Trap Cleaning,Grease trap pumping and cleaning,"New Hanover, Brunswick, Pender, Onslow, Duplin",Required maintenance
+SPEC-11003,Specialty Services,Parking Lot Sweeping,Parking lot sweeping service,"New Hanover, Brunswick, Pender, Onslow, Duplin",Based on lot size
+SPEC-11004,Specialty Services,Parking Lot Striping,Re-stripe parking lot,"New Hanover, Brunswick, Pender, Onslow, Duplin",Fresh paint striping
+SPEC-11005,Specialty Services,Sign Installation,Install building signage,"New Hanover, Brunswick, Pender, Onslow, Duplin",Varies by size and type
+SPEC-11006,Specialty Services,Snow Removal Service,Snow and ice removal,"New Hanover, Brunswick, Pender, Onslow, Duplin",Based on snowfall and lot size
+SPEC-11007,Specialty Services,Landscaping Maintenance,Grounds maintenance service,"New Hanover, Brunswick, Pender, Onslow, Duplin",Mowing trimming cleanup
+SPEC-11008,Specialty Services,Irrigation System Maintenance,Irrigation system service,"New Hanover, Brunswick, Pender, Onslow, Duplin",Sprinkler maintenance
+SPEC-11009,Specialty Services,Pest Control Service,Commercial pest control,"New Hanover, Brunswick, Pender, Onslow, Duplin",Regular treatment
+SPEC-11010,Specialty Services,Bird Control Installation,Install bird deterrent systems,"New Hanover, Brunswick, Pender, Onslow, Duplin",Netting spikes etc
+SPEC-11011,Specialty Services,Graffiti Removal,Remove graffiti from surfaces,"New Hanover, Brunswick, Pender, Onslow, Duplin",Based on size
+SPEC-11012,Specialty Services,Painting - Interior,Interior painting service,"New Hanover, Brunswick, Pender, Onslow, Duplin",Commercial painting
+SPEC-11013,Specialty Services,Painting - Exterior,Exterior painting service,"New Hanover, Brunswick, Pender, Onslow, Duplin",Weather-resistant coating
+SPEC-11014,Specialty Services,Drywall Repair,Repair damaged drywall,"New Hanover, Brunswick, Pender, Onslow, Duplin",Patch texture and paint
+SPEC-11015,Specialty Services,Ceiling Tile Replacement,Replace damaged ceiling tiles,"New Hanover, Brunswick, Pender, Onslow, Duplin",Standard 2x2 or 2x4 tiles
+SPEC-11016,Specialty Services,Door Hardware Repair,Repair door hardware,"New Hanover, Brunswick, Pender, Onslow, Duplin",Locks handles closers
+SPEC-11017,Specialty Services,Key Cutting Service,Cut keys for facility,"New Hanover, Brunswick, Pender, Onslow, Duplin",Standard keys
+SPEC-11018,Specialty Services,Lock Rekey Service,Rekey building locks,"New Hanover, Brunswick, Pender, Onslow, Duplin",Change lock cylinders
+SPEC-11019,Specialty Services,Master Key System Setup,Install master key system,"New Hanover, Brunswick, Pender, Onslow, Duplin",Comprehensive key system
+SPEC-11020,Specialty Services,Signage Installation - Interior,Install interior signage,"New Hanover, Brunswick, Pender, Onslow, Duplin",Wayfinding and room signs
+SPEC-11021,Specialty Services,ADA Signage Installation,Install ADA-compliant signage,"New Hanover, Brunswick, Pender, Onslow, Duplin",Braille and tactile signs
+SPEC-11022,Specialty Services,Floor Mat Service,Commercial floor mat rental and cleaning,"New Hanover, Brunswick, Pender, Onslow, Duplin",Entrance mats
+SPEC-11023,Specialty Services,Restroom Supply Service,Restroom supplies and dispensers,"New Hanover, Brunswick, Pender, Onslow, Duplin",Paper towels soap etc
+SPEC-11024,Specialty Services,Hand Sanitizer Station Installation,Install hand sanitizer stations,"New Hanover, Brunswick, Pender, Onslow, Duplin",Wall-mounted dispensers
+SPEC-11025,Specialty Services,Air Freshener Service,Automatic air freshener service,"New Hanover, Brunswick, Pender, Onslow, Duplin",Restroom air quality
+SPEC-11026,Specialty Services,Waste Management Consulting,Waste and recycling program,"New Hanover, Brunswick, Pender, Onslow, Duplin",Sustainability program
+SPEC-11027,Specialty Services,Furniture Assembly,Assemble office furniture,"New Hanover, Brunswick, Pender, Onslow, Duplin",General labor
+SPEC-11028,Specialty Services,Move Coordination,Coordinate office move,"New Hanover, Brunswick, Pender, Onslow, Duplin",Based on size of move
+

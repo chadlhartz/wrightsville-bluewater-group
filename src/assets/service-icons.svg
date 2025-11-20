@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <!-- HVAC Icon -->
+  <symbol id="icon-hvac" viewBox="0 0 64 64">
+    <rect x="8" y="8" width="48" height="48" rx="4" fill="currentColor" opacity="0.2"/>
+    <path d="M32 20v24M20 32h24M24 24l16 16M40 24L24 40" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="32" cy="32" r="8" fill="none" stroke="currentColor" stroke-width="3"/>
+  </symbol>
+  
+  <!-- Janitorial Icon -->
+  <symbol id="icon-janitorial" viewBox="0 0 64 64">
+    <path d="M32 8L32 36" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+    <ellipse cx="32" cy="42" rx="18" ry="14" fill="none" stroke="currentColor" stroke-width="3"/>
+    <path d="M20 35 Q32 45 44 35" fill="none" stroke="currentColor" stroke-width="2"/>
+  </symbol>
+  
+  <!-- Electrical Icon -->
+  <symbol id="icon-electrical" viewBox="0 0 64 64">
+    <path d="M36 8L24 32H32L28 56L48 28H38L44 8Z" fill="currentColor"/>
+  </symbol>
+  
+  <!-- Security Icon -->
+  <symbol id="icon-security" viewBox="0 0 64 64">
+    <path d="M32 8C32 8 12 14 12 24V36C12 48 32 56 32 56C32 56 52 48 52 36V24C52 14 32 8 32 8Z" 
+          fill="none" stroke="currentColor" stroke-width="3"/>
+    <circle cx="32" cy="32" r="6" fill="currentColor"/>
+    <path d="M32 38v8" stroke="currentColor" stroke-width="3"/>
+  </symbol>
+  
+  <!-- Fire Icon -->
+  <symbol id="icon-fire" viewBox="0 0 64 64">
+    <path d="M32 8C28 16 24 24 24 32C24 40 27 48 32 48C37 48 40 40 40 32C40 24 36 16 32 8Z" 
+          fill="currentColor" opacity="0.8"/>
+    <path d="M32 20C30 24 28 28 28 32C28 36 29.5 40 32 40C34.5 40 36 36 36 32C36 28 34 24 32 20Z" 
+          fill="#ffffff" opacity="0.6"/>
+  </symbol>
+  
+  <!-- Inspection Icon -->
+  <symbol id="icon-inspection" viewBox="0 0 64 64">
+    <rect x="16" y="8" width="32" height="48" rx="2" fill="none" stroke="currentColor" stroke-width="3"/>
+    <path d="M24 20h16M24 28h16M24 36h12" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="48" cy="48" r="10" fill="none" stroke="currentColor" stroke-width="3"/>
+    <path d="M55 55l6 6" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+  </symbol>
+  
+  <!-- Emergency Icon -->
+  <symbol id="icon-emergency" viewBox="0 0 64 64">
+    <circle cx="32" cy="32" r="24" fill="none" stroke="currentColor" stroke-width="3"/>
+    <circle cx="32" cy="32" r="18" fill="currentColor" opacity="0.2"/>
+    <path d="M32 20v12l8 8" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+    <path d="M8 32h8M48 32h8M32 8v8M32 48v8" stroke="currentColor" stroke-width="2"/>
+  </symbol>
+</svg>
+

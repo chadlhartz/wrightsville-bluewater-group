@@ -1,0 +1,36 @@
+/* Chatbot styling - fallback if Tailwind not available */
+.chatbot-button {
+  position: fixed;
+  bottom: 1.5rem;
+  right: 1.5rem;
+  z-index: 50;
+  background-color: #1d4ed8;
+  color: white;
+  padding: 1rem;
+  border-radius: 9999px;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+  transition: all 0.2s;
+  border: none;
+  cursor: pointer;
+}
+
+.chatbot-button:hover {
+  background-color: #1e40af;
+  transform: scale(1.05);
+}
+
+.chatbot-backdrop {
+  position: fixed;
+  inset: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(4px);
+}
+
+/* Ensure mobile-friendly input */
+@media (max-width: 768px) {
+  input[type="text"],
+  textarea {
+    font-size: 16px !important;
+  }
+}
+

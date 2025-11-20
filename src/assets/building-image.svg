@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs>
+    <linearGradient id="skyGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#0ea5e9;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e0f2fe;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Sky background -->
+  <rect width="800" height="600" fill="url(#skyGrad)"/>
+  
+  <!-- Sun -->
+  <circle cx="650" cy="100" r="60" fill="#fbbf24" opacity="0.8"/>
+  
+  <!-- Buildings -->
+  <g>
+    <!-- Building 1 -->
+    <rect x="50" y="250" width="180" height="350" fill="#1e3a8a"/>
+    <g fill="#0ea5e9" opacity="0.4">
+      <rect x="70" y="280" width="35" height="40"/>
+      <rect x="120" y="280" width="35" height="40"/>
+      <rect x="170" y="280" width="35" height="40"/>
+      <rect x="70" y="340" width="35" height="40"/>
+      <rect x="120" y="340" width="35" height="40"/>
+      <rect x="170" y="340" width="35" height="40"/>
+      <rect x="70" y="400" width="35" height="40"/>
+      <rect x="120" y="400" width="35" height="40"/>
+      <rect x="170" y="400" width="35" height="40"/>
+      <rect x="70" y="460" width="35" height="40"/>
+      <rect x="120" y="460" width="35" height="40"/>
+      <rect x="170" y="460" width="35" height="40"/>
+      <rect x="70" y="520" width="35" height="40"/>
+      <rect x="120" y="520" width="35" height="40"/>
+      <rect x="170" y="520" width="35" height="40"/>
+    </g>
+    
+    <!-- Building 2 (taller) -->
+    <rect x="260" y="150" width="200" height="450" fill="#1e40af"/>
+    <g fill="#60a5fa" opacity="0.4">
+      <rect x="285" y="180" width="40" height="45"/>
+      <rect x="340" y="180" width="40" height="45"/>
+      <rect x="395" y="180" width="40" height="45"/>
+      <rect x="285" y="245" width="40" height="45"/>
+      <rect x="340" y="245" width="40" height="45"/>
+      <rect x="395" y="245" width="40" height="45"/>
+      <rect x="285" y="310" width="40" height="45"/>
+      <rect x="340" y="310" width="40" height="45"/>
+      <rect x="395" y="310" width="40" height="45"/>
+      <rect x="285" y="375" width="40" height="45"/>
+      <rect x="340" y="375" width="40" height="45"/>
+      <rect x="395" y="375" width="40" height="45"/>
+      <rect x="285" y="440" width="40" height="45"/>
+      <rect x="340" y="440" width="40" height="45"/>
+      <rect x="395" y="440" width="40" height="45"/>
+      <rect x="285" y="505" width="40" height="45"/>
+      <rect x="340" y="505" width="40" height="45"/>
+      <rect x="395" y="505" width="40" height="45"/>
+    </g>
+    
+    <!-- Building 3 -->
+    <rect x="490" y="300" width="160" height="300" fill="#1e3a8a"/>
+    <g fill="#0ea5e9" opacity="0.4">
+      <rect x="510" y="330" width="30" height="35"/>
+      <rect x="555" y="330" width="30" height="35"/>
+      <rect x="600" y="330" width="30" height="35"/>
+      <rect x="510" y="385" width="30" height="35"/>
+      <rect x="555" y="385" width="30" height="35"/>
+      <rect x="600" y="385" width="30" height="35"/>
+      <rect x="510" y="440" width="30" height="35"/>
+      <rect x="555" y="440" width="30" height="35"/>
+      <rect x="600" y="440" width="30" height="35"/>
+      <rect x="510" y="495" width="30" height="35"/>
+      <rect x="555" y="495" width="30" height="35"/>
+      <rect x="600" y="495" width="30" height="35"/>
+      <rect x="510" y="550" width="30" height="35"/>
+      <rect x="555" y="550" width="30" height="35"/>
+      <rect x="600" y="550" width="30" height="35"/>
+    </g>
+    
+    <!-- Building 4 (short) -->
+    <rect x="680" y="400" width="120" height="200" fill="#1e40af"/>
+    <g fill="#60a5fa" opacity="0.4">
+      <rect x="695" y="425" width="25" height="30"/>
+      <rect x="735" y="425" width="25" height="30"/>
+      <rect x="775" y="425" width="25" height="30"/>
+      <rect x="695" y="475" width="25" height="30"/>
+      <rect x="735" y="475" width="25" height="30"/>
+      <rect x="775" y="475" width="25" height="30"/>
+      <rect x="695" y="525" width="25" height="30"/>
+      <rect x="735" y="525" width="25" height="30"/>
+      <rect x="775" y="525" width="25" height="30"/>
+    </g>
+  </g>
+  
+  <!-- Ground -->
+  <rect y="590" width="800" height="10" fill="#64748b"/>
+</svg>
+

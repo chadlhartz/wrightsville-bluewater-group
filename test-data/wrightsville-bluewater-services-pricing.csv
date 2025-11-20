@@ -1,0 +1,388 @@
+service_category,service_name,service_description,unit_type,base_price,price_range_low,price_range_high,billing_frequency,notes
+HVAC Services,Rooftop Unit Installation - 3-5 Ton,Complete installation of commercial rooftop HVAC unit including startup and commissioning,per_unit,8500,7500,12000,one_time,Includes electrical hookup and basic ductwork connections
+HVAC Services,Rooftop Unit Installation - 7.5-10 Ton,Complete installation of larger commercial rooftop HVAC unit,per_unit,12500,11000,16000,one_time,Includes crane rental if needed
+HVAC Services,Rooftop Unit Installation - 15-20 Ton,Heavy-duty commercial rooftop unit installation,per_unit,18500,16000,24000,one_time,Requires structural assessment
+HVAC Services,Split System Installation,Installation of commercial split HVAC system,per_unit,6500,5500,9500,one_time,Indoor and outdoor units
+HVAC Services,Ductless Mini-Split Installation - Single Zone,Installation of single-zone ductless mini-split system,per_unit,3500,3000,4500,one_time,One indoor head unit
+HVAC Services,Ductless Mini-Split Installation - Multi Zone,Installation of multi-zone ductless system,per_zone,1800,1500,2500,one_time,Additional zones beyond first
+HVAC Services,VRF System Installation,Variable Refrigerant Flow system installation,per_ton,2200,2000,2800,one_time,Requires engineering and design
+HVAC Services,Chiller Installation - Air Cooled,Commercial air-cooled chiller installation,per_ton,1800,1600,2400,one_time,100+ ton capacity
+HVAC Services,Chiller Installation - Water Cooled,Commercial water-cooled chiller installation,per_ton,2100,1900,2700,one_time,Includes cooling tower integration
+HVAC Services,Boiler Installation - Gas Fired,Commercial gas-fired boiler installation,per_unit,15000,12000,25000,one_time,Based on BTU capacity
+HVAC Services,Boiler Installation - Electric,Commercial electric boiler installation,per_unit,12000,10000,18000,one_time,Lower installation complexity
+HVAC Services,Building Automation System - New Installation,Complete BAS installation with touchscreen controls,per_building,25000,20000,50000,one_time,Varies by building size and complexity
+HVAC Services,Building Automation System Upgrade,Upgrade existing BAS to modern controls,per_building,12000,8000,20000,one_time,Integration with existing systems
+HVAC Services,Quarterly HVAC Maintenance - Small Building,Preventive maintenance quarterly service,per_visit,450,350,650,quarterly,Up to 5 HVAC units
+HVAC Services,Quarterly HVAC Maintenance - Medium Building,Preventive maintenance quarterly service,per_visit,850,700,1200,quarterly,6-15 HVAC units
+HVAC Services,Quarterly HVAC Maintenance - Large Building,Preventive maintenance quarterly service,per_visit,1800,1400,2800,quarterly,16-30 HVAC units
+HVAC Services,Monthly HVAC Maintenance - Critical Facility,Monthly preventive maintenance for critical facilities,per_visit,1200,900,1800,monthly,Hospitals healthcare data centers
+HVAC Services,Annual HVAC Tune-Up,Comprehensive annual system tune-up,per_unit,275,225,375,annual,Single unit service
+HVAC Services,Filter Replacement Service,Regular filter replacement program,per_filter,25,15,45,monthly,Standard filters bulk pricing available
+HVAC Services,HEPA Filter Replacement,High-efficiency filter replacement,per_filter,125,85,185,quarterly,Medical-grade filtration
+HVAC Services,Compressor Replacement,Compressor replacement and refrigerant charge,per_unit,2800,2200,4500,one_time,Includes labor and refrigerant
+HVAC Services,Condenser Fan Motor Replacement,Replace condenser fan motor,per_unit,650,500,950,one_time,Commercial grade motors
+HVAC Services,Blower Motor Replacement,Indoor blower motor replacement,per_unit,750,600,1100,one_time,Includes balancing
+HVAC Services,Thermostat Replacement - Programmable,Install programmable thermostat,per_unit,275,200,400,one_time,Standard commercial thermostat
+HVAC Services,Thermostat Replacement - Smart,Install smart WiFi-enabled thermostat,per_unit,450,350,650,one_time,Includes app setup
+HVAC Services,Refrigerant Leak Repair,Locate and repair refrigerant leak,per_incident,850,600,1500,one_time,Plus refrigerant recharge
+HVAC Services,Refrigerant Recharge - R-410A,Recharge system with R-410A refrigerant,per_pound,125,95,175,one_time,Current market rates apply
+HVAC Services,Refrigerant Recharge - R-22,Recharge system with R-22 refrigerant,per_pound,195,150,275,one_time,Phase-out refrigerant premium pricing
+HVAC Services,Ductwork Repair,Repair damaged or disconnected ductwork,per_hour,125,100,175,one_time,Labor rate
+HVAC Services,Ductwork Installation - New,Install new ductwork system,per_sq_ft,12,8,18,one_time,Material and labor included
+HVAC Services,Duct Cleaning Service,Professional duct cleaning and sanitization,per_building,1200,800,2500,one_time,Based on square footage
+HVAC Services,Coil Cleaning - Evaporator,Clean evaporator coils,per_unit,225,175,325,one_time,Improves efficiency
+HVAC Services,Coil Cleaning - Condenser,Clean condenser coils,per_unit,185,150,275,one_time,Improves heat rejection
+HVAC Services,Drain Line Cleaning,Clean condensate drain lines,per_unit,125,85,185,one_time,Prevents overflow
+HVAC Services,Belt Replacement,Replace worn belts on HVAC equipment,per_unit,95,75,150,one_time,Includes adjustment
+HVAC Services,Control Board Replacement,Replace failed control board,per_unit,850,650,1400,one_time,OEM parts
+HVAC Services,Gas Valve Replacement,Replace gas valve on heating equipment,per_unit,650,500,950,one_time,Includes testing
+HVAC Services,Igniter Replacement,Replace hot surface igniter,per_unit,275,200,400,one_time,Common heating repair
+HVAC Services,Expansion Valve Replacement,Replace thermostatic expansion valve,per_unit,550,450,800,one_time,Refrigerant recovery and recharge
+HVAC Services,Economizer Repair,Repair or replace economizer system,per_unit,850,600,1500,one_time,Dampers and controls
+HVAC Services,Variable Speed Drive Installation,Install VFD on HVAC equipment,per_unit,2200,1800,3200,one_time,Energy savings upgrade
+HVAC Services,Energy Audit - Comprehensive,Complete building energy audit,per_building,2500,1800,4500,one_time,Detailed report with ROI analysis
+HVAC Services,Thermal Imaging Inspection,Infrared thermal imaging survey,per_building,850,600,1500,one_time,Identifies energy loss
+HVAC Services,Air Balancing Service,Test adjust and balance HVAC system,per_building,1800,1200,3500,one_time,Ensures proper airflow
+HVAC Services,Indoor Air Quality Assessment,Comprehensive IAQ testing and analysis,per_building,1200,800,2200,one_time,Air sampling and reporting
+HVAC Services,UV Light Installation - Single,Install UV germicidal light in air handler,per_unit,650,500,900,one_time,Improves air quality
+HVAC Services,Humidifier Installation - Commercial,Install commercial-grade humidification system,per_unit,3500,2500,6000,one_time,Steam or evaporative
+HVAC Services,Dehumidification System Installation,Install dedicated dehumidification system,per_unit,4500,3500,7500,one_time,For humid climates
+HVAC Services,Ventilation System Upgrade,Upgrade ventilation to meet current codes,per_building,8500,5000,18000,one_time,Varies by requirements
+HVAC Services,Makeup Air Unit Installation,Install makeup air unit for commercial kitchen,per_unit,6500,5000,12000,one_time,Replaces exhaust air
+HVAC Services,Cooling Tower Maintenance,Cooling tower inspection and maintenance,per_unit,1200,800,2000,quarterly,Cleaning chemical treatment
+HVAC Services,Cooling Tower Repair,Repair cooling tower components,per_hour,135,110,175,one_time,Plus parts
+HVAC Services,Chiller Maintenance - Quarterly,Quarterly chiller maintenance service,per_unit,1800,1400,2800,quarterly,Includes chemical treatment
+HVAC Services,Boiler Maintenance - Annual,Annual boiler inspection and tune-up,per_unit,1200,900,2000,annual,Includes combustion analysis
+HVAC Services,Boiler Certification Inspection,Required boiler inspection and certification,per_unit,650,500,950,annual,State compliance
+HVAC Services,Emergency HVAC Service Call - After Hours,Emergency HVAC repair outside business hours,per_call,350,300,450,one_time,Service call fee plus labor
+HVAC Services,Emergency HVAC Service Call - Weekend,Weekend emergency HVAC service,per_call,400,350,500,one_time,Service call fee plus labor
+HVAC Services,Emergency HVAC Labor - After Hours,Emergency labor rate after hours,per_hour,185,150,225,one_time,Time and half rate
+HVAC Services,Standard HVAC Service Call,Regular business hours service call,per_call,150,125,200,one_time,Diagnosis fee
+HVAC Services,Standard HVAC Labor Rate,Regular business hours labor,per_hour,125,100,150,one_time,Standard rate
+Electrical Services,Electrical Service Upgrade - 200A,Upgrade electrical service to 200 amp,per_service,4500,3500,6500,one_time,Includes panel and meter
+Electrical Services,Electrical Service Upgrade - 400A,Upgrade electrical service to 400 amp,per_service,8500,7000,12000,one_time,Commercial service upgrade
+Electrical Services,Electrical Service Upgrade - 800A,Upgrade electrical service to 800 amp,per_service,16000,13000,22000,one_time,Large commercial upgrade
+Electrical Services,Electrical Panel Replacement - 200A,Replace main electrical panel,per_panel,2800,2200,4000,one_time,Includes installation and labeling
+Electrical Services,Subpanel Installation - 100A,Install 100 amp subpanel,per_panel,1800,1400,2600,one_time,Includes feeder installation
+Electrical Services,Circuit Breaker Replacement - Standard,Replace standard circuit breaker,per_breaker,125,85,200,one_time,Single or double pole
+Electrical Services,Circuit Breaker Replacement - GFCI,Replace GFCI circuit breaker,per_breaker,185,145,275,one_time,GFCI protection required
+Electrical Services,Circuit Breaker Replacement - AFCI,Replace AFCI circuit breaker,per_breaker,195,155,285,one_time,Arc fault protection
+Electrical Services,Transformer Installation - Dry Type,Install dry type transformer,per_kva,450,350,650,one_time,Commercial voltage conversion
+Electrical Services,Generator Installation - 20kW,Install 20kW standby generator,per_unit,12500,10000,16000,one_time,Natural gas or propane
+Electrical Services,Generator Installation - 60kW,Install 60kW standby generator,per_unit,22000,18000,28000,one_time,Includes transfer switch
+Electrical Services,Generator Installation - 150kW,Install 150kW standby generator,per_unit,45000,38000,58000,one_time,Large commercial installation
+Electrical Services,Automatic Transfer Switch Installation,Install automatic transfer switch,per_unit,3500,2800,5000,one_time,Critical power switching
+Electrical Services,Generator Maintenance - Quarterly,Quarterly generator preventive maintenance,per_visit,450,350,650,quarterly,Load bank testing included annually
+Electrical Services,Generator Load Bank Testing,Annual load bank testing of generator,per_test,850,650,1200,annual,Verify full capacity
+Electrical Services,Generator Battery Replacement,Replace generator starting batteries,per_set,450,300,700,one_time,Based on generator size
+Electrical Services,LED Lighting Retrofit - Office,LED conversion for office lighting,per_fixture,185,140,280,one_time,Includes fixtures and installation
+Electrical Services,LED Lighting Retrofit - High Bay,LED high bay lighting conversion,per_fixture,350,275,500,one_time,Industrial warehouse lighting
+Electrical Services,LED Lighting Retrofit - Parking Lot,LED parking lot lighting upgrade,per_fixture,650,500,950,one_time,Pole mounted fixtures
+Electrical Services,Lighting Control System Installation,Install lighting control system,per_zone,850,650,1400,one_time,Occupancy sensors and controls
+Electrical Services,Occupancy Sensor Installation,Install occupancy sensor switch,per_sensor,125,95,185,one_time,Energy saving device
+Electrical Services,Photocell Installation,Install photocell lighting control,per_unit,95,75,145,one_time,Dusk to dawn control
+Electrical Services,Emergency Lighting Installation,Install emergency lighting fixture,per_fixture,350,275,500,one_time,Battery backup lighting
+Electrical Services,Exit Sign Installation - LED,Install LED exit sign,per_sign,185,145,275,one_time,Energy efficient
+Electrical Services,Exit Sign Battery Replacement,Replace exit sign battery backup,per_sign,85,65,125,one_time,Maintains emergency operation
+Electrical Services,Emergency Lighting Testing - Monthly,Monthly emergency lighting test,per_building,125,85,200,monthly,30-second test
+Electrical Services,Emergency Lighting Testing - Annual,Annual 90-minute discharge test,per_building,450,350,700,annual,Full compliance test
+Electrical Services,Outlet Installation - Standard,Install standard electrical outlet,per_outlet,125,95,175,one_time,120V receptacle
+Electrical Services,Outlet Installation - 220V,Install 220V outlet,per_outlet,185,145,275,one_time,Heavy duty appliances
+Electrical Services,GFCI Outlet Installation,Install GFCI protected outlet,per_outlet,145,115,215,one_time,Wet location protection
+Electrical Services,USB Charging Outlet Installation,Install USB charging outlet,per_outlet,165,125,245,one_time,Modern convenience
+Electrical Services,Data/Network Outlet Installation,Install data network outlet,per_outlet,95,75,145,one_time,Cat6 ethernet
+Electrical Services,Dedicated Circuit Installation,Install new dedicated circuit,per_circuit,450,350,700,one_time,From panel to device
+Electrical Services,Lighting Fixture Installation - Standard,Install standard lighting fixture,per_fixture,145,110,225,one_time,Basic commercial fixture
+Electrical Services,Lighting Fixture Installation - Decorative,Install decorative lighting fixture,per_fixture,225,175,375,one_time,Specialty fixtures
+Electrical Services,Track Lighting Installation,Install track lighting system,per_section,350,275,550,one_time,Adjustable accent lighting
+Electrical Services,Can Light Installation,Install recessed can lighting,per_light,185,145,285,one_time,New construction or retrofit
+Electrical Services,Exterior Wall Pack Light Installation,Install exterior wall pack lighting,per_fixture,275,215,425,one_time,Building perimeter lighting
+Electrical Services,Bollard Light Installation,Install bollard pathway lighting,per_fixture,450,350,700,one_time,Includes concrete work
+Electrical Services,Sign Lighting Installation,Install sign illumination,per_sign,650,500,1200,one_time,Business sign lighting
+Electrical Services,Parking Lot Light Pole Installation,Install parking lot light pole with fixture,per_pole,2800,2200,4200,one_time,Complete pole installation
+Electrical Services,Electrical Troubleshooting,Diagnose electrical problem,per_hour,135,110,175,one_time,Diagnostic labor rate
+Electrical Services,Electrical Wiring Repair,Repair damaged electrical wiring,per_hour,125,100,165,one_time,Plus materials
+Electrical Services,Ballast Replacement,Replace fluorescent light ballast,per_ballast,125,95,185,one_time,Standard T8 ballast
+Electrical Services,LED Driver Replacement,Replace LED driver,per_driver,145,110,215,one_time,LED fixture repair
+Electrical Services,Electrical Panel Repair,Repair electrical panel issues,per_hour,145,120,195,one_time,Bus bar connections etc
+Electrical Services,Ground Fault Troubleshooting,Locate and repair ground fault,per_incident,450,350,750,one_time,Complex diagnostics
+Electrical Services,Arc Flash Assessment,Arc flash hazard assessment,per_building,3500,2500,6000,one_time,NFPA 70E compliance
+Electrical Services,Arc Flash Labeling,Install arc flash warning labels,per_label,45,35,65,one_time,Per panel or equipment
+Electrical Services,Thermal Imaging Inspection,Infrared thermal scan of electrical systems,per_building,850,650,1400,one_time,Identifies hot spots
+Electrical Services,Power Quality Analysis,Power quality testing and analysis,per_building,1200,900,2000,one_time,Voltage harmonics etc
+Electrical Services,Surge Protection Installation - Panel Mount,Install whole-building surge protector,per_unit,850,650,1400,one_time,Panel-mounted SPD
+Electrical Services,Surge Protection Installation - Point of Use,Install point-of-use surge protector,per_unit,185,145,285,one_time,Equipment protection
+Electrical Services,EV Charging Station Installation - Level 2,Install Level 2 EV charging station,per_station,2800,2200,4200,one_time,208-240V charger
+Electrical Services,EV Charging Station Installation - DC Fast,Install DC fast charging station,per_station,45000,35000,65000,one_time,Requires major electrical upgrade
+Electrical Services,EV Charger Service Upgrade,Electrical service upgrade for EV charging,per_service,6500,5000,10000,one_time,Increase capacity for chargers
+Electrical Services,Energy Monitoring System Installation,Install energy monitoring system,per_building,4500,3500,7500,one_time,Real-time energy tracking
+Electrical Services,Submetering Installation,Install tenant submetering,per_meter,1800,1400,2800,one_time,Individual usage tracking
+Electrical Services,Electrical Safety Inspection,Comprehensive electrical safety inspection,per_building,850,650,1400,one_time,Code compliance check
+Electrical Services,Electrical Code Compliance Upgrade,Upgrade to meet current electrical codes,per_building,5500,3500,12000,one_time,Varies by scope
+Electrical Services,Emergency Electrical Service - After Hours,Emergency electrical service call,per_call,400,350,500,one_time,After hours service call
+Electrical Services,Emergency Electrical Labor - After Hours,Emergency electrical labor rate,per_hour,195,160,240,one_time,Double time rate
+Electrical Services,Standard Electrical Service Call,Standard electrical service call,per_call,150,125,200,one_time,Business hours
+Electrical Services,Standard Electrical Labor Rate,Standard electrical labor,per_hour,125,100,150,one_time,Journeyman rate
+Fire Safety,Fire Alarm System Installation - Small Building,Install complete fire alarm system,per_building,12000,9000,18000,one_time,Up to 10000 sq ft
+Fire Safety,Fire Alarm System Installation - Medium Building,Install complete fire alarm system,per_building,25000,18000,38000,one_time,10000-30000 sq ft
+Fire Safety,Fire Alarm System Installation - Large Building,Install complete fire alarm system,per_building,55000,40000,85000,one_time,30000+ sq ft
+Fire Safety,Fire Alarm Panel Replacement,Replace fire alarm control panel,per_panel,4500,3500,6500,one_time,Addressable panel
+Fire Safety,Smoke Detector Installation - Standard,Install smoke detector,per_device,225,175,325,one_time,Addressable device
+Fire Safety,Smoke Detector Installation - Multi-Criteria,Install multi-criteria smoke detector,per_device,350,275,500,one_time,Advanced detection
+Fire Safety,Heat Detector Installation,Install heat detector,per_device,185,145,275,one_time,Fixed temperature or rate-of-rise
+Fire Safety,Duct Smoke Detector Installation,Install duct smoke detector,per_device,450,350,650,one_time,HVAC integration
+Fire Safety,Manual Pull Station Installation,Install manual fire alarm pull station,per_device,275,215,400,one_time,Break glass station
+Fire Safety,Horn Strobe Installation,Install horn/strobe notification device,per_device,225,175,325,one_time,Visual and audible alarm
+Fire Safety,Voice Evacuation Speaker Installation,Install voice evacuation speaker,per_device,350,275,525,one_time,Voice notification
+Fire Safety,Fire Alarm Annual Testing,Annual fire alarm inspection and testing,per_building,850,650,1500,annual,NFPA 72 compliance small building
+Fire Safety,Fire Alarm Annual Testing - Large,Annual fire alarm testing large building,per_building,2200,1600,3500,annual,Extensive device testing
+Fire Safety,Fire Alarm Semi-Annual Testing,Semi-annual fire alarm testing,per_building,550,450,900,semi_annual,Additional testing frequency
+Fire Safety,Fire Alarm Quarterly Testing,Quarterly fire alarm testing,per_building,350,275,550,quarterly,Critical facilities
+Fire Safety,Smoke Detector Cleaning,Clean and test smoke detectors,per_device,35,25,55,annual,Maintenance service
+Fire Safety,Smoke Detector Sensitivity Test,Sensitivity test and calibration,per_device,45,35,75,annual,Ensures proper operation
+Fire Safety,Fire Alarm Battery Replacement,Replace fire alarm panel batteries,per_panel,350,250,550,one_time,Backup power batteries
+Fire Safety,Fire Alarm Device Replacement,Replace failed fire alarm device,per_device,275,215,425,one_time,Smoke heat or pull station
+Fire Safety,Fire Sprinkler System Installation,Install complete fire sprinkler system,per_sq_ft,8,6,12,one_time,Wet pipe system
+Fire Safety,Fire Sprinkler System Retrofit,Retrofit building with fire sprinkler system,per_sq_ft,10,8,15,one_time,Existing building challenges
+Fire Safety,Dry Pipe Sprinkler System,Install dry pipe sprinkler system,per_sq_ft,11,9,16,one_time,Freeze protection
+Fire Safety,Pre-Action Sprinkler System,Install pre-action sprinkler system,per_sq_ft,14,11,20,one_time,Sensitive areas
+Fire Safety,Fire Pump Installation,Install fire pump system,per_unit,35000,28000,50000,one_time,Boosts water pressure
+Fire Safety,Backflow Preventer Installation,Install backflow preventer,per_unit,2800,2200,4200,one_time,Fire sprinkler water supply
+Fire Safety,Fire Sprinkler Quarterly Inspection,Quarterly sprinkler system inspection,per_building,450,350,750,quarterly,NFPA 25 compliance
+Fire Safety,Fire Sprinkler Annual Testing,Annual sprinkler flow test and inspection,per_building,850,650,1400,annual,Full system test
+Fire Safety,Fire Sprinkler 5-Year Inspection,5-year internal pipe inspection,per_building,2500,1800,4500,one_time,Obstruction investigation
+Fire Safety,Fire Pump Weekly Testing,Weekly fire pump churn test,per_test,125,95,175,weekly,Required testing
+Fire Safety,Fire Pump Annual Test,Annual fire pump flow test,per_test,1200,900,1800,annual,Full performance test
+Fire Safety,Backflow Preventer Testing,Annual backflow preventer test,per_unit,225,175,325,annual,Required testing
+Fire Safety,Sprinkler Head Replacement,Replace damaged sprinkler head,per_head,125,95,185,one_time,Includes testing
+Fire Safety,Sprinkler Pipe Repair,Repair fire sprinkler piping,per_hour,145,120,195,one_time,Plus materials
+Fire Safety,Sprinkler System Winterization,Winterize dry pipe sprinkler system,per_building,850,650,1400,seasonal,Freeze protection
+Fire Safety,Kitchen Hood Suppression Installation,Install kitchen hood suppression system,per_system,4500,3500,6500,one_time,Wet chemical system
+Fire Safety,Kitchen Hood Suppression Inspection,Semi-annual hood suppression inspection,per_system,350,275,525,semi_annual,Required service
+Fire Safety,Clean Agent System Installation,Install clean agent suppression system,per_sq_ft,35,28,50,one_time,Server rooms data centers
+Fire Safety,Clean Agent System Inspection,Semi-annual clean agent inspection,per_system,650,500,950,semi_annual,Agent level check
+Fire Safety,Fire Extinguisher - Annual Service,Annual fire extinguisher inspection,per_extinguisher,35,25,55,annual,Tag and inspect
+Fire Safety,Fire Extinguisher - 6 Year Maintenance,6-year internal inspection,per_extinguisher,75,55,115,one_time,Internal exam
+Fire Safety,Fire Extinguisher - 12 Year Hydro Test,12-year hydrostatic test,per_extinguisher,95,75,145,one_time,Pressure vessel test
+Fire Safety,Fire Extinguisher Recharge,Recharge fire extinguisher after use,per_extinguisher,65,45,95,one_time,Based on type
+Fire Safety,Fire Extinguisher - New 5lb ABC,Supply and install new 5lb ABC extinguisher,per_extinguisher,85,65,125,one_time,Standard commercial
+Fire Safety,Fire Extinguisher - New 10lb ABC,Supply and install new 10lb ABC extinguisher,per_extinguisher,125,95,175,one_time,Larger capacity
+Fire Safety,Fire Extinguisher - New 15lb CO2,Supply and install new CO2 extinguisher,per_extinguisher,225,175,325,one_time,Electrical fires
+Fire Safety,Fire Extinguisher - New Class K,Supply and install Class K kitchen extinguisher,per_extinguisher,185,145,275,one_time,Commercial kitchen
+Fire Safety,Fire Extinguisher Cabinet Installation,Install fire extinguisher cabinet,per_cabinet,225,175,325,one_time,Surface or recessed mount
+Fire Safety,Emergency Light Installation,Install emergency light fixture,per_fixture,350,275,525,one_time,Battery backup
+Fire Safety,Exit Sign Installation,Install illuminated exit sign,per_sign,185,145,285,one_time,LED exit sign
+Fire Safety,Emergency Lighting Monthly Test,Monthly 30-second emergency lighting test,per_building,125,95,200,monthly,Code required testing
+Fire Safety,Emergency Lighting Annual Test,Annual 90-minute discharge test,per_building,450,350,750,annual,Full battery test
+Fire Safety,Emergency Light Battery Replacement,Replace emergency light battery,per_fixture,85,65,135,one_time,Maintains backup power
+Fire Safety,Fire Damper Inspection,Fire damper inspection and testing,per_damper,125,95,185,one_time,Access and test
+Fire Safety,Smoke Damper Inspection,Smoke damper inspection and testing,per_damper,145,110,215,one_time,HVAC fire protection
+Fire Safety,Fire Damper Repair,Repair or replace fire damper,per_damper,450,350,750,one_time,Restore operation
+Fire Safety,Fire Door Inspection,Inspect fire door and hardware,per_door,85,65,135,annual,Self-closing operation
+Fire Safety,Fire Door Repair,Repair fire door hardware,per_door,275,215,450,one_time,Closer hinges seal
+Fire Safety,Fire Safety Training,Fire safety and evacuation training,per_session,650,500,950,one_time,Up to 25 people
+Fire Safety,Fire Extinguisher Training,Hands-on fire extinguisher training,per_session,450,350,700,one_time,Up to 15 people
+Fire Safety,Fire Drill Coordination,Coordinate and document fire drill,per_drill,350,275,550,one_time,Compliance documentation
+Fire Safety,Fire Safety Plan Development,Develop comprehensive fire safety plan,per_building,1800,1400,3000,one_time,Custom plan
+Fire Safety,Emergency Fire System Repair,Emergency fire system repair service,per_call,400,350,550,one_time,After hours service call
+Security Systems,Access Control System Installation - Small,Install complete access control system,per_building,8500,6500,12000,one_time,Up to 10 doors
+Security Systems,Access Control System Installation - Medium,Install access control system,per_building,18000,14000,25000,one_time,10-25 doors
+Security Systems,Access Control System Installation - Large,Install enterprise access control system,per_building,45000,35000,65000,one_time,25+ doors multi-building
+Security Systems,Access Control Door Installation,Add access control to single door,per_door,1200,900,1800,one_time,Card reader lock controller
+Security Systems,Biometric Access Control Installation,Install biometric access control,per_door,2200,1800,3200,one_time,Fingerprint or facial recognition
+Security Systems,Mobile Access Control Upgrade,Upgrade to mobile credentials,per_system,4500,3500,6500,one_time,Smartphone access
+Security Systems,Access Card Programming,Program new access card,per_card,15,10,25,one_time,Standard proximity card
+Security Systems,Access Fob Programming,Program new key fob,per_fob,25,18,40,one_time,Key fob credential
+Security Systems,Visitor Management System,Install visitor management system,per_building,3500,2500,5500,one_time,Check-in kiosk and software
+Security Systems,Access Control Maintenance,Annual access control maintenance,per_door,125,95,185,annual,Testing and updates
+Security Systems,Video Surveillance Installation - 4 Camera,Install 4-camera surveillance system,per_system,3500,2800,5000,one_time,IP cameras and NVR
+Security Systems,Video Surveillance Installation - 8 Camera,Install 8-camera surveillance system,per_system,6500,5000,9000,one_time,Complete system
+Security Systems,Video Surveillance Installation - 16 Camera,Install 16-camera surveillance system,per_system,12000,9000,16000,one_time,Enterprise system
+Security Systems,IP Camera Installation - Indoor,Install indoor IP camera,per_camera,650,500,950,one_time,HD camera and configuration
+Security Systems,IP Camera Installation - Outdoor,Install outdoor IP camera,per_camera,850,650,1300,one_time,Weatherproof camera
+Security Systems,PTZ Camera Installation,Install pan-tilt-zoom camera,per_camera,2200,1800,3200,one_time,Motorized PTZ camera
+Security Systems,License Plate Recognition Camera,Install LPR camera system,per_camera,3500,2800,5000,one_time,Specialized LPR camera
+Security Systems,Network Video Recorder Installation,Install NVR system,per_unit,2200,1700,3500,one_time,Based on channel count
+Security Systems,Video Storage Expansion,Expand video storage capacity,per_tb,350,275,550,one_time,Additional hard drives
+Security Systems,Cloud Video Storage Setup,Setup cloud video storage,per_camera,45,35,75,monthly,Monthly cloud storage fee
+Security Systems,Video Analytics Software,Install video analytics software,per_camera,185,145,285,one_time,AI-powered analytics
+Security Systems,Camera Maintenance Service,Annual camera cleaning and maintenance,per_camera,85,65,125,annual,Clean and test
+Security Systems,Intrusion Alarm Installation - Small,Install intrusion alarm system,per_building,2800,2200,4200,one_time,Up to 10 zones
+Security Systems,Intrusion Alarm Installation - Large,Install intrusion alarm system,per_building,6500,5000,9500,one_time,20+ zones
+Security Systems,Door Contact Installation,Install door contact sensor,per_contact,95,75,145,one_time,Wired or wireless
+Security Systems,Window Contact Installation,Install window contact sensor,per_contact,85,65,135,one_time,Glass break or contact
+Security Systems,Motion Detector Installation,Install motion detector,per_detector,185,145,275,one_time,PIR or dual-tech
+Security Systems,Glass Break Detector Installation,Install glass break sensor,per_detector,165,125,245,one_time,Acoustic detection
+Security Systems,Panic Button Installation,Install panic/duress button,per_button,225,175,350,one_time,Emergency activation
+Security Systems,Intrusion Alarm Monitoring,Monthly intrusion alarm monitoring,per_building,65,45,95,monthly,24/7 central station monitoring
+Security Systems,Video Alarm Verification,Video verified alarm monitoring,per_building,125,95,175,monthly,Video clip verification
+Security Systems,Intercom System Installation,Install video intercom system,per_building,3500,2700,5500,one_time,Entry intercom with video
+Security Systems,Multi-Station Intercom,Install multi-station intercom,per_station,850,650,1300,one_time,IP-based intercom
+Security Systems,Perimeter Intrusion Detection,Install perimeter detection system,per_building,12000,9000,18000,one_time,Fence sensors and detection
+Security Systems,Automated Gate System,Install automated gate with access control,per_gate,8500,6500,12000,one_time,Vehicle gate automation
+Security Systems,Bollard Installation - Security,Install security bollards,per_bollard,1800,1400,2600,one_time,Fixed or removable
+Security Systems,Security Camera Repair,Repair or replace security camera,per_camera,350,275,550,one_time,Troubleshooting and repair
+Security Systems,Access Control Repair,Repair access control system,per_hour,135,110,175,one_time,Diagnostic and repair labor
+Security Systems,Security System Integration,Integrate multiple security systems,per_building,8500,6500,14000,one_time,Unified platform
+Security Systems,Security Assessment,Comprehensive security assessment,per_building,2500,1800,4500,one_time,Threat and vulnerability analysis
+Security Systems,Emergency Security Service,Emergency security system repair,per_call,400,350,550,one_time,After hours service
+Janitorial Services,Daily Office Cleaning - Small,Daily janitorial service,per_month,1200,900,1800,monthly,Up to 5000 sq ft
+Janitorial Services,Daily Office Cleaning - Medium,Daily janitorial service,per_month,2400,1800,3600,monthly,5000-10000 sq ft
+Janitorial Services,Daily Office Cleaning - Large,Daily janitorial service,per_month,4800,3600,7200,monthly,10000-20000 sq ft
+Janitorial Services,Daily Office Cleaning - Extra Large,Daily janitorial service,per_month,8500,6500,12000,monthly,20000+ sq ft
+Janitorial Services,Nightly Cleaning Service,5 nights per week cleaning,per_month,1800,1400,2800,monthly,Monday-Friday service
+Janitorial Services,3x Weekly Cleaning,Three times weekly cleaning,per_month,1100,850,1700,monthly,MWF service
+Janitorial Services,2x Weekly Cleaning,Twice weekly cleaning,per_month,750,600,1100,monthly,Cost-effective option
+Janitorial Services,Weekly Deep Clean,Weekly comprehensive cleaning,per_month,450,350,700,monthly,Weekly service
+Janitorial Services,Restroom Cleaning Service,Daily restroom cleaning and sanitization,per_restroom,125,95,185,monthly,Per restroom monthly rate
+Janitorial Services,Break Room Cleaning,Daily break room cleaning,per_room,85,65,135,monthly,Kitchen cleaning
+Janitorial Services,Lobby Cleaning Service,Daily lobby and entrance cleaning,per_lobby,185,145,285,monthly,First impression maintenance
+Janitorial Services,Floor Care - VCT Strip and Wax,Strip and refinish VCT flooring,per_sq_ft,2.25,1.75,3.00,one_time,Floor restoration
+Janitorial Services,Floor Care - Burnishing,High-speed burnishing service,per_sq_ft,0.35,0.25,0.50,one_time,High-gloss finish
+Janitorial Services,Floor Care - Buffing,Floor buffing service,per_sq_ft,0.25,0.18,0.40,one_time,Maintain appearance
+Janitorial Services,Floor Sealing,Apply floor sealer,per_sq_ft,0.85,0.65,1.25,one_time,Protect floor finish
+Janitorial Services,Carpet Deep Cleaning,Hot water extraction carpet cleaning,per_sq_ft,0.35,0.25,0.50,one_time,Deep clean carpets
+Janitorial Services,Carpet Spot Cleaning,Spot clean carpet stains,per_spot,25,18,40,one_time,Individual stain treatment
+Janitorial Services,Carpet Protection Treatment,Apply carpet protectant,per_sq_ft,0.45,0.35,0.65,one_time,Scotchgard treatment
+Janitorial Services,Upholstery Cleaning,Clean office furniture upholstery,per_piece,85,65,135,one_time,Chairs couches etc
+Janitorial Services,Tile and Grout Cleaning,Deep clean tile and grout,per_sq_ft,1.85,1.45,2.75,one_time,Restore grout appearance
+Janitorial Services,Grout Sealing,Seal tile grout lines,per_sq_ft,1.25,0.95,1.85,one_time,Protect from staining
+Janitorial Services,Stone Floor Polishing,Polish marble or stone floors,per_sq_ft,3.50,2.75,5.00,one_time,Restore shine
+Janitorial Services,Concrete Floor Cleaning,Clean and seal concrete floors,per_sq_ft,0.85,0.65,1.35,one_time,Industrial cleaning
+Janitorial Services,Window Cleaning - Interior,Interior window cleaning,per_window,12,8,18,one_time,Standard windows
+Janitorial Services,Window Cleaning - Exterior Ground Level,Exterior window cleaning ground level,per_window,18,14,28,one_time,Ground level access
+Janitorial Services,Window Cleaning - High Rise,High-rise exterior window cleaning,per_sq_ft,3.50,2.75,5.00,one_time,Specialized equipment required
+Janitorial Services,Window Cleaning - Monthly Service,Monthly window cleaning service,per_building,450,350,850,monthly,Interior and exterior
+Janitorial Services,Pressure Washing - Exterior,Pressure wash exterior surfaces,per_sq_ft,0.35,0.25,0.55,one_time,Sidewalks walls etc
+Janitorial Services,Pressure Washing - Parking Lot,Pressure wash parking lot,per_sq_ft,0.18,0.12,0.28,one_time,Remove oil and grime
+Janitorial Services,Gum Removal,Remove gum from floors and surfaces,per_hour,85,65,125,one_time,Specialized removal
+Janitorial Services,Day Porter Service - Full Time,Full-time day porter,per_month,5500,4500,7500,monthly,8 hours per day M-F
+Janitorial Services,Day Porter Service - Part Time,Part-time day porter,per_month,2800,2200,4000,monthly,4 hours per day
+Janitorial Services,Disinfection Service - Electrostatic,Electrostatic disinfection service,per_sq_ft,0.15,0.10,0.22,one_time,Enhanced disinfection
+Janitorial Services,High-Touch Surface Sanitization,Sanitize high-touch surfaces,per_building,185,145,325,one_time,Additional daily service
+Janitorial Services,Medical Facility Cleaning,Healthcare facility specialized cleaning,per_sq_ft,0.25,0.18,0.38,monthly,Per sq ft monthly rate
+Janitorial Services,Post-Construction Cleaning,Post-construction cleanup,per_sq_ft,0.65,0.45,0.95,one_time,Final cleaning
+Janitorial Services,Move-In/Move-Out Cleaning,Tenant turnover cleaning,per_sq_ft,0.45,0.35,0.65,one_time,Complete cleaning
+Janitorial Services,Special Event Cleaning,Before and after event cleaning,per_event,650,500,1200,one_time,Based on event size
+Janitorial Services,Porter Service - Event,Porter service during event,per_hour,45,35,65,one_time,Maintain cleanliness during event
+Janitorial Services,Trash Removal Service,Additional trash removal service,per_pickup,85,65,135,one_time,Extra pickups
+Janitorial Services,Supply Restocking,Restroom supplies restocking,per_building,45,35,75,monthly,Paper products soap etc
+Janitorial Services,Green Cleaning Program,Eco-friendly cleaning program,per_sq_ft,0.15,0.10,0.22,monthly,Monthly premium for green products
+Janitorial Services,Quality Control Inspection,Monthly quality inspection,per_building,125,95,185,monthly,Documented inspection
+Janitorial Services,Emergency Cleaning Service,Emergency cleaning response,per_call,350,275,550,one_time,Spills accidents etc
+Inspections,Comprehensive Building Inspection,Complete multi-system building inspection,per_building,2500,1800,4500,one_time,All major systems
+Inspections,Pre-Purchase Property Inspection,Due diligence inspection for property purchase,per_building,3500,2500,6000,one_time,Detailed report for buyers
+Inspections,Annual Building Inspection,Annual property condition assessment,per_building,1800,1400,3000,annual,Ongoing monitoring
+Inspections,Quarterly Building Inspection,Quarterly preventive inspection,per_building,850,650,1400,quarterly,Regular monitoring
+Inspections,HVAC System Inspection,Detailed HVAC system assessment,per_building,850,650,1400,one_time,All HVAC equipment
+Inspections,Electrical System Inspection,Comprehensive electrical system inspection,per_building,1200,900,2000,one_time,Power distribution and safety
+Inspections,Plumbing System Inspection,Plumbing system assessment,per_building,850,650,1400,one_time,All plumbing systems
+Inspections,Roof Inspection - Standard,Visual roof inspection,per_building,450,350,750,one_time,Visual assessment and report
+Inspections,Roof Inspection - Infrared,Infrared roof moisture detection,per_building,1200,900,2000,one_time,Thermal imaging scan
+Inspections,Roof Inspection - Drone,Drone aerial roof inspection,per_building,650,500,1100,one_time,Aerial photography
+Inspections,Structural Inspection,Structural system inspection,per_building,1800,1400,3000,one_time,Foundation framing roof structure
+Inspections,Building Envelope Inspection,Building envelope assessment,per_building,1400,1100,2400,one_time,Walls windows doors weatherization
+Inspections,ADA Compliance Inspection,ADA accessibility compliance review,per_building,1200,900,2000,one_time,Code compliance
+Inspections,OSHA Safety Audit,OSHA compliance safety audit,per_building,1800,1400,3000,one_time,Workplace safety assessment
+Inspections,Fire Code Compliance Inspection,Fire safety code compliance review,per_building,1400,1100,2400,one_time,Life safety systems
+Inspections,Environmental Compliance Inspection,Environmental compliance assessment,per_building,1600,1200,2600,one_time,EPA regulations
+Inspections,Energy Efficiency Assessment,Comprehensive energy audit,per_building,2500,1800,4500,one_time,Energy savings opportunities
+Inspections,Indoor Air Quality Assessment,IAQ testing and analysis,per_building,1200,900,2200,one_time,Air sampling and report
+Inspections,Asbestos Survey,Asbestos inspection and sampling,per_building,1400,1100,2400,one_time,Certified asbestos inspector
+Inspections,Lead Paint Inspection,Lead-based paint inspection,per_building,850,650,1400,one_time,Lead testing
+Inspections,Mold Inspection,Mold inspection and assessment,per_building,650,500,1100,one_time,Visual and moisture testing
+Inspections,Radon Testing,Radon level testing,per_building,350,275,550,one_time,48-hour test
+Inspections,Phase I Environmental Site Assessment,ASTM Phase I ESA,per_building,3500,2500,6000,one_time,Environmental due diligence
+Inspections,Water Intrusion Investigation,Identify sources of water intrusion,per_incident,850,650,1400,one_time,Leak detection
+Inspections,Thermal Imaging Inspection,Infrared thermal imaging survey,per_building,850,650,1400,one_time,Energy loss moisture electrical
+Inspections,Capital Planning Inspection,Long-term capital planning assessment,per_building,3500,2800,6000,one_time,10-20 year forecast
+Inspections,Property Condition Assessment,PCA for lenders and investors,per_building,4500,3500,7500,one_time,Detailed condition report
+Inspections,Reserve Study,Reserve fund analysis for associations,per_building,3000,2200,5000,one_time,Long-term planning
+Inspections,Post-Storm Damage Assessment,Document storm damage,per_building,1200,900,2000,one_time,Insurance documentation
+Inspections,Insurance Inspection Preparation,Prepare for insurance inspection,per_building,650,500,1100,one_time,Correct deficiencies
+Inspections,Fire Marshal Inspection Prep,Prepare for fire marshal inspection,per_building,850,650,1400,one_time,Code compliance prep
+Inspections,Tenant Improvement Inspection,Inspect tenant improvement work,per_space,650,500,1100,one_time,Quality verification
+Inspections,Maintenance Contract Audit,Audit contractor performance,per_building,1200,900,2000,one_time,Verify service quality
+Inspections,Follow-Up Inspection,Verify correction of deficiencies,per_building,450,350,750,one_time,Re-inspection after repairs
+Emergency Services,Emergency Service Call - HVAC After Hours,Emergency HVAC service call,per_call,350,300,450,one_time,After hours service call fee
+Emergency Services,Emergency Service Call - Electrical After Hours,Emergency electrical service call,per_call,400,350,500,one_time,After hours electrical emergency
+Emergency Services,Emergency Service Call - Plumbing After Hours,Emergency plumbing service call,per_call,350,300,450,one_time,After hours plumbing emergency
+Emergency Services,Emergency Service Call - Fire System After Hours,Emergency fire system service call,per_call,400,350,500,one_time,Fire protection emergency
+Emergency Services,Emergency Service Call - Weekend,Weekend emergency service call,per_call,400,350,500,one_time,Weekend rate
+Emergency Services,Emergency Service Call - Holiday,Holiday emergency service call,per_call,500,450,600,one_time,Major holiday premium
+Emergency Services,Emergency Labor - After Hours,Emergency labor after hours,per_hour,185,150,225,one_time,Time and half rate
+Emergency Services,Emergency Labor - Weekend,Emergency labor weekend,per_hour,195,160,235,one_time,Weekend rate
+Emergency Services,Emergency Labor - Holiday,Emergency labor holiday,per_hour,250,200,300,one_time,Double time rate
+Emergency Services,Emergency Generator Rental - Portable,Portable generator rental,per_day,350,275,550,daily,Temporary power solution
+Emergency Services,Emergency Generator Rental - Large,Large trailer-mounted generator rental,per_day,850,650,1400,daily,Extended outage support
+Emergency Services,Emergency Roof Tarping,Emergency roof tarp installation,per_sq_ft,3.50,2.75,5.00,one_time,Storm damage mitigation
+Emergency Services,Emergency Board Up Service,Board up broken windows and doors,per_opening,185,145,285,one_time,Security after damage
+Emergency Services,Emergency Water Extraction,Emergency water removal,per_hour,225,175,325,one_time,Water damage response
+Emergency Services,Emergency Dehumidification,Industrial dehumidification service,per_day,185,145,285,daily,Water damage drying
+Emergency Services,Emergency Storm Response,Storm damage emergency response,per_call,500,400,700,one_time,Immediate storm response
+Emergency Services,Emergency Building Lockout,After hours building lockout service,per_call,250,200,350,one_time,Emergency access
+Emergency Services,Emergency Security Response,Emergency security system repair,per_call,400,350,550,one_time,Security system down
+Emergency Services,Emergency Gas Leak Response,Emergency gas leak repair,per_call,450,400,600,one_time,Safety priority response
+Emergency Services,Fire Watch Service,Fire watch during system impairment,per_hour,55,45,75,hourly,Required when system down
+Emergency Services,Emergency Cleanup Service,Emergency cleaning after incident,per_hour,125,95,185,one_time,Spills accidents etc
+Preventive Maintenance,Comprehensive Maintenance Contract - Small,All-inclusive maintenance contract,per_month,1800,1400,2800,monthly,Up to 10000 sq ft
+Preventive Maintenance,Comprehensive Maintenance Contract - Medium,All-inclusive maintenance contract,per_month,3500,2700,5500,monthly,10000-25000 sq ft
+Preventive Maintenance,Comprehensive Maintenance Contract - Large,All-inclusive maintenance contract,per_month,6500,5000,10000,monthly,25000-50000 sq ft
+Preventive Maintenance,Comprehensive Maintenance Contract - Extra Large,All-inclusive maintenance contract,per_month,12000,9000,18000,monthly,50000+ sq ft
+Preventive Maintenance,HVAC-Only Maintenance Contract,HVAC preventive maintenance program,per_month,650,500,1100,monthly,All HVAC equipment
+Preventive Maintenance,Electrical-Only Maintenance Contract,Electrical preventive maintenance program,per_month,450,350,750,monthly,Electrical systems
+Preventive Maintenance,Plumbing-Only Maintenance Contract,Plumbing preventive maintenance program,per_month,350,275,600,monthly,Plumbing systems
+Preventive Maintenance,Fire Safety Maintenance Contract,Fire protection systems maintenance,per_month,550,450,900,monthly,All fire systems
+Preventive Maintenance,Filter Change Program,Automated filter replacement program,per_month,125,95,225,monthly,Regular filter service
+Preventive Maintenance,Quarterly Maintenance Plan,Quarterly multi-system maintenance,per_quarter,1200,900,2000,quarterly,Comprehensive PM service
+Preventive Maintenance,Semi-Annual Maintenance Plan,Twice yearly maintenance service,per_visit,850,650,1400,semi_annual,Basic PM program
+Preventive Maintenance,Annual Maintenance Service,Annual comprehensive maintenance,per_visit,650,500,1100,annual,Yearly service
+Preventive Maintenance,Equipment Monitoring Service,Remote equipment monitoring,per_unit,45,35,75,monthly,Per equipment monthly fee
+Preventive Maintenance,Predictive Maintenance Program,Advanced predictive maintenance,per_month,850,650,1400,monthly,Sensor-based monitoring
+Consulting Services,Facility Assessment Consulting,Comprehensive facility consulting,per_hour,185,150,250,one_time,Expert consulting
+Consulting Services,Energy Management Consulting,Energy efficiency consulting,per_hour,195,160,275,one_time,Reduce energy costs
+Consulting Services,Building Automation Design,BAS system design services,per_building,4500,3500,7500,one_time,Custom BAS design
+Consulting Services,Capital Planning Consulting,Long-term capital planning,per_building,3500,2700,6000,one_time,Multi-year planning
+Consulting Services,Vendor Performance Audit,Audit current vendor performance,per_vendor,1200,900,2000,one_time,Service quality assessment
+Consulting Services,Facility Optimization Study,Optimize facility operations,per_building,4500,3500,7500,one_time,Efficiency improvements
+Consulting Services,Sustainability Consulting,Green building and sustainability consulting,per_building,3500,2700,6000,one_time,LEED and sustainability
+Consulting Services,Code Compliance Consulting,Building code compliance consulting,per_hour,175,145,250,one_time,Code expert guidance
+Consulting Services,Project Management Services,Construction project management,per_project,8500,6500,15000,one_time,Full project oversight
+Consulting Services,Commissioning Services,Building systems commissioning,per_building,6500,5000,12000,one_time,New construction commissioning
+Consulting Services,Retro-Commissioning Services,Existing building retro-commissioning,per_building,5500,4500,10000,one_time,Optimize existing systems
+Training Services,HVAC Basics Training,HVAC fundamentals training,per_session,850,650,1400,one_time,Up to 15 people
+Training Services,Electrical Safety Training,Electrical safety training program,per_session,950,750,1600,one_time,OSHA and NEC compliance
+Training Services,Fire Safety Training,Fire safety and evacuation training,per_session,650,500,1100,one_time,Life safety training
+Training Services,Emergency Response Training,Emergency procedures training,per_session,850,650,1400,one_time,Crisis response
+Training Services,Building Systems Training,Building systems operations training,per_session,1200,900,2000,one_time,Custom training program
+Training Services,Energy Management Training,Energy efficiency training,per_session,850,650,1400,one_time,Reduce operating costs
+Training Services,Lockout Tagout Training,LOTO safety procedures training,per_session,650,500,1100,one_time,OSHA compliance
+Specialty Services,Kitchen Exhaust Hood Cleaning,Commercial kitchen hood cleaning,per_hood,450,350,750,one_time,Fire prevention cleaning
+Specialty Services,Grease Trap Cleaning,Grease trap pumping and cleaning,per_trap,350,275,600,one_time,Required maintenance
+Specialty Services,Parking Lot Sweeping,Parking lot sweeping service,per_sweep,185,145,325,one_time,Based on lot size
+Specialty Services,Parking Lot Striping,Re-stripe parking lot,per_space,35,25,55,one_time,Fresh paint striping
+Specialty Services,Sign Installation,Install building signage,per_sign,650,500,1200,one_time,Varies by size and type
+Specialty Services,Snow Removal Service,Snow and ice removal,per_event,650,450,1200,one_time,Based on snowfall and lot size
+Specialty Services,Landscaping Maintenance,Grounds maintenance service,per_month,850,650,1500,monthly,Mowing trimming cleanup
+Specialty Services,Irrigation System Maintenance,Irrigation system service,per_zone,125,95,200,one_time,Sprinkler maintenance
+Specialty Services,Pest Control Service,Commercial pest control,per_month,185,145,325,monthly,Regular treatment
+Specialty Services,Bird Control Installation,Install bird deterrent systems,per_building,1200,900,2200,one_time,Netting spikes etc
+Specialty Services,Graffiti Removal,Remove graffiti from surfaces,per_incident,225,175,450,one_time,Based on size
+Specialty Services,Painting - Interior,Interior painting service,per_sq_ft,2.25,1.75,3.50,one_time,Commercial painting
+Specialty Services,Painting - Exterior,Exterior painting service,per_sq_ft,3.50,2.75,5.50,one_time,Weather-resistant coating
+Specialty Services,Drywall Repair,Repair damaged drywall,per_patch,125,95,225,one_time,Patch texture and paint
+Specialty Services,Ceiling Tile Replacement,Replace damaged ceiling tiles,per_tile,25,18,45,one_time,Standard 2x2 or 2x4 tiles
+Specialty Services,Door Hardware Repair,Repair door hardware,per_door,145,110,250,one_time,Locks handles closers
+Specialty Services,Key Cutting Service,Cut keys for facility,per_key,15,10,25,one_time,Standard keys
+Specialty Services,Lock Rekey Service,Rekey building locks,per_lock,85,65,145,one_time,Change lock cylinders
+Specialty Services,Master Key System Setup,Install master key system,per_building,1800,1400,3200,one_time,Comprehensive key system
+Specialty Services,Signage Installation - Interior,Install interior signage,per_sign,95,75,175,one_time,Wayfinding and room signs
+Specialty Services,ADA Signage Installation,Install ADA-compliant signage,per_sign,125,95,200,one_time,Braille and tactile signs
+Specialty Services,Floor Mat Service,Commercial floor mat rental and cleaning,per_mat,25,18,40,monthly,Entrance mats
+Specialty Services,Restroom Supply Service,Restroom supplies and dispensers,per_restroom,65,45,95,monthly,Paper towels soap etc
+Specialty Services,Hand Sanitizer Station Installation,Install hand sanitizer stations,per_station,185,145,285,one_time,Wall-mounted dispensers
+Specialty Services,Air Freshener Service,Automatic air freshener service,per_dispenser,35,25,55,monthly,Restroom air quality
+Specialty Services,Waste Management Consulting,Waste and recycling program,per_building,1200,900,2000,one_time,Sustainability program
+Specialty Services,Furniture Assembly,Assemble office furniture,per_hour,85,65,125,one_time,General labor
+Specialty Services,Move Coordination,Coordinate office move,per_move,2200,1700,3500,one_time,Based on size of move
+

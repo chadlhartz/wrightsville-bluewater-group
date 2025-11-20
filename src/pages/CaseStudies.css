@@ -1,0 +1,191 @@
+.intro-content {
+  max-width: 900px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.intro-content h2 {
+  margin-bottom: 1.5rem;
+}
+
+.intro-content p {
+  font-size: 1.125rem;
+  line-height: 1.8;
+}
+
+.case-study-detail {
+  background-color: var(--light-color);
+}
+
+.case-study-card {
+  margin-bottom: 3rem;
+  border-top: 5px solid var(--primary-color);
+}
+
+.case-study-header {
+  margin-bottom: 2rem;
+}
+
+.case-badge {
+  display: inline-block;
+  background-color: var(--secondary-color);
+  color: white;
+  padding: 0.5rem 1.5rem;
+  border-radius: 20px;
+  font-size: 0.875rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+.case-study-header h2 {
+  color: var(--primary-color);
+  font-size: 2rem;
+}
+
+.case-study-content {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.case-section h4 {
+  color: var(--primary-color);
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+}
+
+.case-section p {
+  line-height: 1.8;
+  font-size: 1.0625rem;
+  margin-bottom: 1rem;
+}
+
+.case-section ul {
+  margin-top: 1rem;
+}
+
+.case-section ul li {
+  margin-bottom: 1rem;
+}
+
+.case-section ul li strong {
+  color: var(--dark-color);
+}
+
+.results-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 2rem;
+  margin: 2rem 0;
+  padding: 2rem;
+  background-color: var(--light-color);
+  border-radius: 12px;
+}
+
+.result-stat {
+  text-align: center;
+}
+
+.result-number {
+  display: block;
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: var(--success-color);
+  margin-bottom: 0.5rem;
+}
+
+.result-label {
+  display: block;
+  font-size: 1rem;
+  color: var(--text-color);
+  font-weight: 600;
+}
+
+.testimonial-section {
+  background-color: var(--light-color);
+  padding: 2rem;
+  border-radius: 12px;
+  border-left: 4px solid var(--secondary-color);
+}
+
+.testimonial-section blockquote {
+  font-size: 1.25rem;
+  line-height: 1.8;
+  font-style: italic;
+  color: var(--dark-color);
+  margin: 0 0 1.5rem 0;
+}
+
+.testimonial-section blockquote:before {
+  content: '"';
+  font-size: 3rem;
+  color: var(--secondary-color);
+  line-height: 0;
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.testimonial-author {
+  font-size: 1rem;
+  color: var(--text-color);
+}
+
+.testimonial-author strong {
+  color: var(--primary-color);
+}
+
+.cta-section {
+  background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
+  color: white;
+}
+
+.cta-box {
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.cta-box h2 {
+  color: white;
+  font-size: 2.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.cta-box p {
+  font-size: 1.25rem;
+  opacity: 0.95;
+  margin-bottom: 2rem;
+}
+
+.cta-buttons {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+@media (max-width: 768px) {
+  .case-study-header h2 {
+    font-size: 1.5rem;
+  }
+  
+  .results-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+  }
+  
+  .result-number {
+    font-size: 2rem;
+  }
+  
+  .cta-buttons {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .cta-buttons .btn {
+    width: 100%;
+    max-width: 300px;
+  }
+}
+
