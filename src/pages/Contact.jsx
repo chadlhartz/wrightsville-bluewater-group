@@ -22,9 +22,9 @@ function Contact() {
                   <div className="contact-icon">📞</div>
                   <div className="contact-details">
                     <h4>Phone</h4>
-                    <p><strong>Main Office:</strong> (910) 555-0100</p>
-                    <p><strong>Emergency 24/7:</strong> 1-800-WBG-HELP (1-800-924-4357)</p>
+                    <p><strong>Call Us:</strong> (910) 613-6570</p>
                     <p><strong>Hours:</strong> Monday-Friday, 7:00 AM - 6:00 PM</p>
+                    <p><strong>Emergency Service:</strong> Available 24/7</p>
                   </div>
                 </div>
 
@@ -159,7 +159,7 @@ function Contact() {
           <div className="emergency-banner">
             <h2>🚨 Need Emergency Service?</h2>
             <p>Our emergency response team is available 24/7/365 for critical issues</p>
-            <a href="tel:1-800-924-4357" className="btn btn-secondary">Call Emergency Hotline: 1-800-WBG-HELP</a>
+            <a href="tel:+19106136570" className="btn btn-secondary">Call Now: (910) 613-6570</a>
             <div className="emergency-info">
               <p><strong>Average Response Time:</strong> Under 60 minutes</p>
               <p><strong>Service Coverage:</strong> All of our service areas, including after-hours and weekends</p>

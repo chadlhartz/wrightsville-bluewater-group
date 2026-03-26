@@ -291,7 +291,7 @@ function CaseStudies() {
             <p>Let's discuss how we can solve your unique challenges and deliver measurable results</p>
             <div className="cta-buttons">
               <a href="/contact" className="btn btn-primary">Schedule a Consultation</a>
-              <a href="tel:1-800-924-4357" className="btn btn-secondary">Call: 1-800-WBG-HELP</a>
+              <a href="tel:+19106136570" className="btn btn-secondary">Call: (910) 613-6570</a>
             </div>
           </div>
         </div>

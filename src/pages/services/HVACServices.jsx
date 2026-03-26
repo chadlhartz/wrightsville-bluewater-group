@@ -166,7 +166,7 @@ function HVACServices() {
               <p>HVAC emergencies can't wait. Our 24/7 emergency service team responds quickly to restore comfort and protect your property.</p>
               <p><strong>Emergency Response:</strong></p>
               <ul className="list-check">
-                <li>24/7/365 emergency hotline: 1-800-WBG-HELP</li>
+                <li>24/7/365 emergency hotline: (910) 613-6570</li>
                 <li>Average response time: Under 60 minutes</li>
                 <li>Fully-stocked service vehicles</li>
                 <li>Access to extensive parts inventory</li>
@@ -271,7 +271,7 @@ function HVACServices() {
             <p>Contact us for a free assessment and learn how we can improve comfort while reducing costs</p>
             <div className="cta-buttons">
               <Link to="/contact" className="btn btn-primary">Request Free Assessment</Link>
-              <a href="tel:1-800-924-4357" className="btn btn-secondary">Call: 1-800-WBG-HELP</a>
+              <a href="tel:+19106136570" className="btn btn-secondary">Call: (910) 613-6570</a>
             </div>
           </div>
         </div>

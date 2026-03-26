@@ -223,7 +223,7 @@ function EmergencyRepairs() {
               <div className="response-steps">
                 <div className="response-step">
                   <h4>Step 1: Call Our Emergency Hotline</h4>
-                  <p><strong>1-800-WBG-HELP (1-800-924-4357)</strong></p>
+                  <p><strong>(910) 613-6570</strong></p>
                   <p>Available 24/7/365 - Your call is answered by a live person, not an answering service. Our dispatcher gathers essential information about your emergency including:</p>
                   <ul className="list-check">
                     <li>Nature of the emergency</li>
@@ -420,8 +420,8 @@ function EmergencyRepairs() {
           <div className="emergency-cta-box">
             <h2>🚨 Need Emergency Service Now?</h2>
             <p className="emergency-text">Don't wait—call our 24/7 emergency hotline immediately</p>
-            <a href="tel:1-800-924-4357" className="btn btn-emergency">
-              CALL EMERGENCY HOTLINE: 1-800-WBG-HELP
+            <a href="tel:+19106136570" className="btn btn-emergency">
+              CALL NOW: (910) 613-6570
             </a>
             <p className="emergency-subtext">Available 24 hours a day, 7 days a week, 365 days a year</p>
             
@@ -430,7 +430,7 @@ function EmergencyRepairs() {
               <p>If your situation is not urgent, you can:</p>
               <div className="emergency-options">
                 <Link to="/contact" className="btn btn-secondary">Submit Service Request Online</Link>
-                <p>Or call our main office during business hours: (910) 555-0100</p>
+                <p>Or call us: (910) 613-6570</p>
               </div>
             </div>
           </div>

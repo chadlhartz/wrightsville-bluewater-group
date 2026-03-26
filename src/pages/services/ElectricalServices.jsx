@@ -187,7 +187,7 @@ function ElectricalServices() {
               <p>Electrical emergencies require immediate response from qualified professionals. Our emergency electricians are available 24/7.</p>
               <p><strong>Emergency Response:</strong></p>
               <ul className="list-check">
-                <li>24/7/365 emergency service: 1-800-WBG-HELP</li>
+                <li>24/7/365 emergency service: (910) 613-6570</li>
                 <li>Rapid response (average under 60 minutes)</li>
                 <li>Power outage troubleshooting</li>
                 <li>Emergency repairs and temporary power</li>
@@ -282,7 +282,7 @@ function ElectricalServices() {
             <p>Contact us for professional electrical solutions that prioritize safety and reliability</p>
             <div className="cta-buttons">
               <Link to="/contact" className="btn btn-primary">Request Service</Link>
-              <a href="tel:1-800-924-4357" className="btn btn-secondary">Call: 1-800-WBG-HELP</a>
+              <a href="tel:+19106136570" className="btn btn-secondary">Call: (910) 613-6570</a>
             </div>
           </div>
         </div>

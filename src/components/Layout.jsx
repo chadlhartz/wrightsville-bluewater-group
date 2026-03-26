@@ -47,8 +47,7 @@ function Layout({ children }) {
               <h3>Wrightsville Bluewater Group</h3>
               <p>Your trusted partner for comprehensive commercial building maintenance and operations. Available 24/7 for emergency services.</p>
               <div className="footer-contact">
-                <p><strong>Emergency Hotline:</strong> 1-800-WBG-HELP</p>
-                <p><strong>Office:</strong> (910) 555-0100</p>
+                <p><strong>Phone:</strong> (910) 613-6570</p>
                 <p><strong>Email:</strong> info@wbgcommercial.com</p>
               </div>
             </div>

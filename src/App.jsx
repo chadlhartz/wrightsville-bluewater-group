@@ -39,10 +39,7 @@ function App() {
       </Layout>
       
       {/* Chatbot - Available on all pages */}
-      <WrightsvilleChatbot
-        chatflowId="d1ff67e4-215d-4535-807b-c8f0db24031a"
-        apiHost="https://wrightsvillebluewatergroup.fetchpointai.com"
-      />
+      <WrightsvilleChatbot />
     </Router>
   )
 }

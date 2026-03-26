@@ -286,7 +286,7 @@ function Inspections() {
             <p>Identify issues before they become problems—contact us for comprehensive building assessment</p>
             <div className="cta-buttons">
               <Link to="/contact" className="btn btn-primary">Request Inspection Quote</Link>
-              <a href="tel:1-800-924-4357" className="btn btn-secondary">Call: 1-800-WBG-HELP</a>
+              <a href="tel:+19106136570" className="btn btn-secondary">Call: (910) 613-6570</a>
             </div>
           </div>
         </div>

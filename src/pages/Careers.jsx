@@ -344,7 +344,7 @@ function Careers() {
               <div className="apply-method card">
                 <h4>📞 Call to Learn More</h4>
                 <p>Speak with our HR team:</p>
-                <p><strong>(910) 555-0100</strong></p>
+                <p><strong>(910) 613-6570</strong></p>
                 <p>Ask for Human Resources</p>
                 <p>Monday-Friday, 8:00 AM - 5:00 PM</p>
               </div>
