@@ -42,7 +42,7 @@ Configuration:
 
 🎉 Deployment Complete!
 
-Public URL: https://sites.fetchpointai.com/wrightsville-bluewater
+Public URL: https://wrightsville-bluewater.sites.fetchpointai.com
 S3 Path: s3://fetchpoint-websites/customers/wrightsville-bluewater/website/
 
 Note: CloudFront may take a few minutes to update the cache.
@@ -84,7 +84,18 @@ If upload fails:
 
 After deployment, the website will be available at:
 
-**Production URL:** https://sites.fetchpointai.com/wrightsville-bluewater
+**Production URL:** https://wrightsville-bluewater.sites.fetchpointai.com
+
+## Custom Domain Setup
+
+If you own a custom domain (e.g., `wrightsvillebluewatergroup.com`), you can point it to your FetchPoint deployment:
+
+1. Get the CloudFront domain from your FetchPoint account
+2. In Route 53, create an **Alias A record** at your domain apex:
+   - **Name**: `wrightsvillebluewatergroup.com`
+   - **Type**: A (with Alias enabled)
+   - **Alias Target**: Your FetchPoint CloudFront distribution
+3. Wait for DNS to propagate (5-10 minutes typically)
 
 ## Content Updates
 
@@ -93,7 +104,7 @@ To update the website:
 1. Make changes to the React source files
 2. Test locally with `npm run dev`
 3. Build: `npm run build`
-4. Deploy: `node upload-website.cjs wrightsvillebluewatergroup ./dist`
+4. Deploy: `node upload-website.cjs wrightsville-bluewater ./dist`
 
 The upload script uses `--delete` flag, so files removed locally will be removed from S3.
 

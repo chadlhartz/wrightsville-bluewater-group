@@ -206,7 +206,7 @@ function main() {
   uploadWebsite(subdomain, absolutePath);
 
   // Output success message with URL
-  const publicUrl = `https://sites.fetchpointai.com/${subdomain}`;
+  const publicUrl = `https://${subdomain}.sites.fetchpointai.com`;
   console.log('🎉 Deployment Complete!\n');
   console.log(`Public URL: ${publicUrl}`);
   console.log(`S3 Path: s3://${BUCKET_NAME}/customers/${subdomain}/website/\n`);
